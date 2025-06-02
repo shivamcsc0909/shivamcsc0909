@@ -506,6 +506,10 @@
 <p align="center">
   <img src="https://github.com/shivamcsc0909/shivamcsc0909/raw/output/github-contribution-grid-snake.svg" />
 </p>
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/shivamcsc0909/shivamcsc0909/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivamcsc0909&color=blueviolet&style=flat" />
 </p>
