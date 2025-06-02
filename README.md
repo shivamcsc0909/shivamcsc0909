@@ -217,6 +217,55 @@
 </div>
 
 ---
+ <details>
+<summary>Click to see Backend Skills</summary>
+
+- Node.js  
+- Express.js  
+- REST API  
+
+</details>
+
+---
+
+### 🚀 Featured Projects
+
+- [E-Shopper](https://github.com/username/e-shopper) — MERN E-commerce app with Stripe integration.  
+- [AI Chatbot](https://github.com/username/ai-chatbot) — Python-based NLP chatbot with FastAPI.
+
+---
+
+### 📅 2025 Learning Goals
+
+#### ✅ Frontend & UI
+- [ ] Master Tailwind CSS  
+- [ ] Master ES6 JavaScript  
+- [ ] Learn React Native  
+
+#### 🔧 DevOps & Integration
+- [ ] Learn Docker & CI/CD  
+- [X] Understand Open API Key Integration  
+- [X] Work with Generative AI APIs  
+
+#### 🤖 AI & Data Science
+- [ ] Learn NLP (Natural Language Processing)  
+- [X] Dive into Machine Learning (ML)  
+- [X] Explore Other Advanced AI Technologies  
+
+#### 💻 Computer Science & Problem Solving
+- [ ] Revise DSA (Data Structures & Algorithms)  
+- [ ] Revise OOPS Concepts  
+- [ ] Practice CP (Competitive Programming)  
+- [ ] Focus on DP (Dynamic Programming) Problems  
+- [ ] Participate in a Coding Competition  
+
+#### 🌐 Community & Contribution
+- [X] Contribute to Open Source  
+
+
+
+
+
 
 ## 🏆 Certifications & Achievements
 
@@ -283,26 +332,4 @@ Made with ❤️ by Shivam Pandey
 </div>
 
 
- <details>
-<summary>Click to see Backend Skills</summary>
-
-- Node.js  
-- Express.js  
-- REST API  
-
-</details>
-
----
-
-### 🚀 Featured Projects
-
-- [E-Shopper](https://github.com/username/e-shopper) — MERN E-commerce app with Stripe integration.  
-- [AI Chatbot](https://github.com/username/ai-chatbot) — Python-based NLP chatbot with FastAPI.
-
----
-
-### 📅 2025 Learning Goals
-
-- [x] Master Tailwind CSS  
-- [ ] Learn Docker & CI/CD  
-- [ ] Contribute to Open Source  
+  
