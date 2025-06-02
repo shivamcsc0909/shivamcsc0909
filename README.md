@@ -1,88 +1,111 @@
-# 👋 Hi, I'm Shivam Pandey
+# 👨‍💻 Shivam Pandey
 
-### 🎓 BCA Graduate | Full-Stack Developer | AI & ML Enthusiast
+### 🎓 BCA Graduate | 💻 Full-Stack Developer (MERN) | 🤖 AI & ML Enthusiast
 
----
-
-## 💡 About Me
-I'm passionate about creating impactful software solutions that solve real-world problems.  
-With hands-on experience in **Java, Python, PHP**, and **Full-Stack Web Development**, I build scalable web apps and intuitive Android applications.  
-I enjoy working with **AI & Machine Learning** models, data science using **R**, and always keep learning new technologies to stay ahead 🚀.  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-informational?style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivampandey-tech)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/shivamcsc0909)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampandeyyuyu@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills
+## 🧭 Objective
 
-| **Languages**             | **Web Development**             | **Tools & Platforms**          | **AI & Data Science**           |
-|---------------------------|--------------------------------|-------------------------------|--------------------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) Java, ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python, ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) C++, PHP | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML, ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS, ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript, PHP | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git, ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) GitHub, ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) VS Code | ![ML](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logo=artificial-intelligence&logoColor=white) Machine Learning, ![AI](https://img.shields.io/badge/Artificial_Intelligence-4B0082?style=flat&logo=ai&logoColor=white) AI, ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) R, Data Mining, Statistical Analysis |
-
-| SQL                       | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) React, ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white) Node.js (MERN Stack) | Linux, Docker | Data Cleaning, Visualization |
+> 🚀 Seeking a **Full Stack Developer** role specializing in the **MERN Stack**.  
+> Dedicated to building **scalable**, **high-performance**, and **user-centric** applications.  
+> I aim to collaborate with forward-thinking teams while sharpening my technical & problem-solving skills.
 
 ---
 
-## 🚀 Project Highlights
+## 🧰 Tech Toolbox
 
-- **Full-Stack Web Applications:** Developed responsive and dynamic websites using MERN stack & PHP backend.
-- **Android App Development:** Created beginner to advanced apps with smooth UX/UI.
-- **AI & ML Projects:** Successfully completed certification projects with HP and UPTEC in AI & Machine Learning domains.
-- **Data Science:** Skilled in data mining, cleaning, and visualization leveraging R and Python.
-
-_For detailed projects and code, visit my [GitHub repositories](https://github.com/shivampandeyyuyu)._
+| 🧩 Frontend       | 🧩 Backend             | 💾 Database       | 🛠️ DevOps / Tools                     |
+|------------------|------------------------|-------------------|----------------------------------------|
+| HTML5, CSS3, JS  | Node.js, Express, PHP  | MongoDB, MySQL    | Git, GitHub, Postman, Netlify, Vercel  |
+| React.js, Tailwind, Bootstrap | REST APIs, FastAPI, JWT |               | Docker, Kubernetes (Basic), AWS (Basic) |
+| WordPress, Elementor | GraphQL, Stripe, Socket.IO |              | Custom WP Theme, OpenAI API            |
 
 ---
 
-## 📫 Connect with Me
+## 💼 Experience
+
+### 🔹 Full Stack Web Developer Trainee @ EXL Services, Delhi  
+*(6-Month Training Program)*  
+- Developed responsive apps using MERN stack under expert mentorship  
+- Hands-on with RESTful APIs, JWT auth, Git versioning & optimization techniques  
+
+### 🔹 Web Developer Intern @ 10x Tech, Delhi  
+- Built client websites using WordPress & React  
+- Implemented SEO, responsive design, cross-browser compatibility  
+- Collaborated with UI/UX team for debugging & enhancing features  
+
+---
+
+## 🚀 Highlighted Projects
+
+| 🧪 Project | ⚙️ Stack | 🔗 Links |
+|-----------|----------|----------|
+| **Task Management App** | MERN + JWT | [Source](#) |
+| **E-Commerce Website** | MERN + Stripe | [Live](#) |
+| **Real-Time Chat App** | MERN + Socket.IO | [Live](#) |
+| **AI Sentiment Chatbot** | MERN + OpenAI | [Demo](#) |
+| **Job Portal with Admin** | MERN + RBAC | [Demo](#) |
+| **Business Portfolio Website** | WordPress + Elementor | [Live](#) |
+| **Custom Blog Website** | WP + PHP + XAMPP | [Demo](#) |
+| **Web Gallery Projects** | HTML/CSS/JS/Bootstrap | [Multiple Live Links](#) |
+| **Personal Finance Tracker** | Vue + Django + PostgreSQL | [Demo](#) |
+
+---
+
+## 📘 Education
+
+🎓 **Bachelor of Computer Applications (BCA)**  
+Maharaja Agrasen Himalayan Garhwal University  
+📆 2021 – 2024
+
+---
+
+## 🏆 Certifications
+
+- ✅ Full Stack Web Development – EXL Certificate  
+- ✅ Data Structures and Algorithms  
+
+---
+
+## 📈 Extracurricular Activities
+
+- 🧠 Exploring AI, ML & Data Science Tools  
+- 🎬 Running Tech YouTube Channel  
+- 🧑‍💻 Freelancing: Web, SEO, Software Services  
+- 🏆 Participated in Hackathons, Tech Bootcamps & Contests  
+- 🌍 Developed multiple Open Source Projects  
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivampandeyyuyu" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/shivampandeyyuyu" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.codechef.com/users/shivam0dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CodeChef-%23EF4F28.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/shivampandeyyuyu" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-%2345a364.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/yourusername" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-%230F1111.svg?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/yourusername" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Codeforces-%231864DB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.youtube.com/channel/yourchannelid" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://your-netlify-site.netlify.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  </a>
-  <a href="https://your-domain.com/your-resume.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-  </a>
+  <a href="mailto:shivampandeyyuyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shivampandey-tech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shivamcsc0909"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/yourusername"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/shivampandeyyuyu"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@curious_shivam01"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔎 Personal Details
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivampandeyyuyu&show_icons=true&theme=radical" alt="Shivam's GitHub Stats" />
-</p>
-
----
-
-## 💬 What I’m Open To Talk About
-
-💻 Full-Stack Development | 🤖 AI & Machine Learning | 📱 Android Apps | 🌐 Modern Web Technologies | 🧩 Competitive Coding | 🚀 Career Growth & Collaboration
+- 📍 Location: New Ashok Nagar, Delhi  
+- 📞 Contact: +91-9554584978  
+- 📧 Email: shivampandeyyuyu@gmail.com  
+- 🗓️ DOB: 22 March 2003  
+- 🧬 Blood Group: O+  
+- 🗣️ Languages: English, Hindi  
 
 ---
 
-## ✨ Bonus: Animated Waving Hand (Optional)
-
-If you want a little animation flair on your README, add this GIF badge:
-
-```markdown
-![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+> 🔄 *Last Updated: June 2025*  
+> Made with ❤️ by Shivam Pandey
