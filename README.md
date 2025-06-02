@@ -483,3 +483,29 @@
 ### ⭐ If you found this profile interesting, don't forget to star my repositories!
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Shivam%20🚀&fontSize=40&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;Programmer;IT+Graduate;Quick+Learner&color=cyan&center=true&width=500&height=50" />
+</p>
+## 🚀 Highlighted Projects
+| Project | Tech Stack | Link |
+|--------|------------|------|
+| ![Task](https://img.shields.io/badge/-Task%20App-blueviolet?style=flat-square&logo=react) Task App | MERN + JWT | [Source](#) |
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shivamcsc0909&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=tokyonight" />
+</p>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamcsc0909&theme=radical" />
+</p>
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/shivamcsc0909/shivamcsc0909/raw/output/github-contribution-grid-snake.svg" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivamcsc0909&color=blueviolet&style=flat" />
+</p>
