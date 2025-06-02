@@ -281,3 +281,28 @@ Made with ❤️ by Shivam Pandey
 
 ⭐ If you found this profile interesting, don't forget to star my repositories!
 </div>
+
+
+ <details>
+<summary>Click to see Backend Skills</summary>
+
+- Node.js  
+- Express.js  
+- REST API  
+
+</details>
+
+---
+
+### 🚀 Featured Projects
+
+- [E-Shopper](https://github.com/username/e-shopper) — MERN E-commerce app with Stripe integration.  
+- [AI Chatbot](https://github.com/username/ai-chatbot) — Python-based NLP chatbot with FastAPI.
+
+---
+
+### 📅 2025 Learning Goals
+
+- [x] Master Tailwind CSS  
+- [ ] Learn Docker & CI/CD  
+- [ ] Contribute to Open Source  
