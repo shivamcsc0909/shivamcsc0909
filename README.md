@@ -1,3 +1,110 @@
+<!-- 🛠️ Technical Skills - 8x8 Grid Layout (64 Boxes) --> 
+<div align="center">
+
+<h2>🛠️ Technical Skills</h2>
+
+<table>
+  <tr>
+    <td align="center"><b>👨‍💻 Programming</b></td>
+    <td align="center"><b>🌐 Frontend</b></td>
+    <td align="center"><b>🔧 Backend</b></td>
+    <td align="center"><b>💾 Database</b></td>
+    <td align="center"><b>⚙️ Tools</b></td>
+    <td align="center"><b>🤖 AI/ML</b></td>
+    <td align="center"><b>Pending</b></td>
+    <td align="center"><b>Pending</b></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=google&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/AI-4B0082?style=for-the-badge&logo=openai&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge&logo=api&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Data_Mining-FF4500?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Data_Cleaning-1E90FF?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Visualization-20B2AA?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Statistical_Analysis-DA70D6?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" /></td>
+  </tr>
+</table>
+</div>
+
  👨‍💻 Shivam Pandey
 
 <div align="center">
@@ -16,7 +123,7 @@
 
 </div>
 
----
+
 
 <a href="https://your-domain.com/your-resume.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/> </a>
 
@@ -32,206 +139,21 @@
 
 </div>
 
----
+
 📊 GitHub Stats & Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://streak-stats.demolab.com?user=shivamcsc0909&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcsc0909&theme=tokyo-night&hide_border=true" width="48%" /> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shivamcsc0909&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
-# 🛠️ Technical Skills
-
-<div align="center">
-
-## 🧠 Programming Languages
-
-<table>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    </td>
-</tr>
-</table>
-
-## 🌐 Frontend Development
-
-<table>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    </td>
-</tr>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
-    </td>
-</tr>
-</table>
-
-## 🧰 Backend & API Development
-
-<table>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
-    </td>
-</tr>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-    </td>
-</tr>
-</table>
-
-## 💾 Databases
-
-<table>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" alt="Pending"/>
-    </td>
-</tr>
-</table>
-
-## 🛠️ Tools & Platforms
-
-<table>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    </td>
-</tr>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    </td>
-</tr>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" alt="Pending"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Pending-8A2BE2?style=for-the-badge&logo=clockify&logoColor=white" alt="Pending"/>
-    </td>
-</tr>
-</table>
-
-## 🤖 AI, ML & Data Science
-
-<table>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/AI-4B0082?style=for-the-badge&logo=ai&logoColor=white" alt="Artificial Intelligence"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Language"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-    </td>
-</tr>
-<tr>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Data_Mining-FF4500?style=for-the-badge" alt="Data Mining"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Data_Cleaning-1E90FF?style=for-the-badge" alt="Data Cleaning"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Visualization-20B2AA?style=for-the-badge" alt="Visualization"/>
-    </td>
-    <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Statistical_Analysis-008080?style=for-the-badge" alt="Statistics"/>
-    </td>
-</tr>
-</table>
-
-</div>
-
----
 
 
 
-```## 💼 Professional Experience
+
+
+
+
+
+
+## 💼 Professional Experience
 
 <div align="left" style="margin: 0 40px;">
 
@@ -249,7 +171,7 @@
 
 </div>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -384,7 +306,7 @@
 
 </div>
 
----
+
 
 ## 📘 Education
 
@@ -396,7 +318,7 @@
 
 </div>
 
----
+
  <details>
 <summary>Click to see Backend Skills</summary>
 
@@ -406,14 +328,14 @@
 
 </details>
 
----
+
 
 ### 🚀 Featured Projects
 
 - [E-Shopper](https://github.com/username/e-shopper) — MERN E-commerce app with Stripe integration.  
 - [AI Chatbot](https://github.com/username/ai-chatbot) — Python-based NLP chatbot with FastAPI.
 
----
+
 
 ### 📅 2025 Learning Goals
 
@@ -504,7 +426,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -515,3 +437,8 @@ Made with ❤️ by Shivam Pandey
 
 ⭐ If you found this profile interesting, don't forget to star my repositories!
 </div>
+
+
+
+
+
