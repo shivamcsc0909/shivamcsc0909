@@ -1,3 +1,48 @@
+
+ 👨‍💻 Shivam Pandey
+
+<div align="center">
+
+### 🎓 BCA Graduate | 💻 Full-Stack Developer (MERN) | 🤖 AI & ML Enthusiast
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Shivam%20🚀&fontSize=40&animation=fadeIn" /> <div align="center"> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Quick+Learner&color=cyan&center=true&width=500&height=50" /> </p>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-informational?style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivampandey-tech)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/shivamcsc0909)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampandeyyuyu@gmail.com)
+
+
+</div>
+
+
+
+<a href="https://your-domain.com/your-resume.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/> </a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shivamcsc0909&color=blueviolet&style=flat" /> </p> </div>
+
+## 🧭 Objective
+
+<div align="center">
+
+> 🚀 Seeking a **Full Stack Developer** role specializing in the **MERN Stack**.  
+> Dedicated to building **scalable**, **high-performance**, and **user-centric** applications.  
+> I aim to collaborate with forward-thinking teams while sharpening my technical & problem-solving skills.
+
+</div>
+
+
+📊 GitHub Stats & Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://streak-stats.demolab.com?user=shivamcsc0909&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcsc0909&theme=tokyo-night&hide_border=true" width="48%" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shivamcsc0909&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
+
+
+
+
+
 <!-- 🛠️ Technical Skills - 8x8 Grid Layout (64 Boxes) --> 
 <div align="center">
 
@@ -104,51 +149,6 @@
   </tr>
 </table>
 </div>
-
- 👨‍💻 Shivam Pandey
-
-<div align="center">
-
-### 🎓 BCA Graduate | 💻 Full-Stack Developer (MERN) | 🤖 AI & ML Enthusiast
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Shivam%20🚀&fontSize=40&animation=fadeIn" /> <div align="center"> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Quick+Learner&color=cyan&center=true&width=500&height=50" /> </p>
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-informational?style=for-the-badge)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivampandey-tech)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/shivamcsc0909)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampandeyyuyu@gmail.com)
-
-
-</div>
-
-
-
-<a href="https://your-domain.com/your-resume.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/> </a>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shivamcsc0909&color=blueviolet&style=flat" /> </p> </div>
-
-## 🧭 Objective
-
-<div align="center">
-
-> 🚀 Seeking a **Full Stack Developer** role specializing in the **MERN Stack**.  
-> Dedicated to building **scalable**, **high-performance**, and **user-centric** applications.  
-> I aim to collaborate with forward-thinking teams while sharpening my technical & problem-solving skills.
-
-</div>
-
-
-📊 GitHub Stats & Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://streak-stats.demolab.com?user=shivamcsc0909&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcsc0909&theme=tokyo-night&hide_border=true" width="48%" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shivamcsc0909&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
-
-
-
-
-
 
 
 
@@ -437,8 +437,5 @@ Made with ❤️ by Shivam Pandey
 
 ⭐ If you found this profile interesting, don't forget to star my repositories!
 </div>
-
-
-
 
 
