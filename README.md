@@ -269,30 +269,31 @@
 
 ## 🏆 Certifications & Achievements
 
-<div align="center">
+| 📜 **Certifications**                                                                 | 🏅 **Achievements**                                                        |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ✅ **Full Stack Web Development** – EXL Services                                       | 🏆 **Hackathon Participant** – Competed in Multiple Tech Competitions       |
+| ✅ **Data Structures and Algorithms** – Comprehensive Certification                    | 🌟 **Open Source Contributor** – Active GitHub & Community Projects         |
+| 🎓 **AI for Beginners** – Foundational AI Concepts                                     |                                                                             |
+| 📊 **Power BI Webinar** – Business Intelligence Tools                                  |                                                                             |
+| 📈 **Data Mining Through R** – Data Science Techniques                                 |                                                                             |
+| 🧠 **Cybersecurity Awareness** – Security Fundamentals                                 |                                                                             |
+| 🌐 **Fullstack Web Development Webinar** – Industry Insights                           |                                                                             |
 
-- ✅ **Full Stack Web Development** – EXL Services Certificate  
-- ✅ **Data Structures and Algorithms** – Comprehensive Certification  
-- 🏆 **Hackathon Participant** – Multiple Tech Competitions  
-- 🌟 **Open Source Contributor** – Active GitHub Projects  
 
-</div>
-
----
 
 ## 📈 Extracurricular Activities
 
-<div align="left" style="margin: 0 40px;">
+<div align="left">
 
 - 🧠 **Tech Exploration:** Actively exploring cutting-edge AI, ML & Data Science tools and frameworks  
 - 🎬 **Content Creation:** Running a dedicated tech YouTube channel sharing programming tutorials and insights  
 - 🧑‍💻 **Freelance Services:** Providing professional web development, SEO optimization, and software solutions  
 - 🏆 **Community Engagement:** Regular participant in hackathons, tech bootcamps, and coding contests  
 - 🌍 **Open Source Development:** Contributing to and maintaining multiple open-source projects on GitHub  
+- 💬 **Customer Support Experience:** Familiar with BPO work culture and client communication in support roles  
 
 </div>
 
----
 
 
 
