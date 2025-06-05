@@ -400,9 +400,13 @@
 
 
 
-🐍 Contribution Activity
-![snake gif](https://profile-readme-generator.com/assets/snake.svg)
-![GitHub Snake](https://raw.githubusercontent.com/shivamcsc0909/shivamcsc0909/output/github-contribution-grid-snake.svg)
+🐍 Contribution Activity<picture>
+<!-- 🐍 GitHub Contribution Snake Animation (Dark/Light Theme Support) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamcsc0909/shivamcsc0909/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamcsc0909/shivamcsc0909/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/shivamcsc0909/shivamcsc0909/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 <p align="center"> <img src="https://github.com/shivamcsc0909/shivamcsc0909/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" /> </p>
