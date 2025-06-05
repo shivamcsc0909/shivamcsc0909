@@ -401,6 +401,10 @@
 
 
 🐍 Contribution Activity
+![snake gif](https://profile-readme-generator.com/assets/snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/shivamcsc0909/shivamcsc0909/output/github-contribution-grid-snake.svg)
+
+
 <p align="center"> <img src="https://github.com/shivamcsc0909/shivamcsc0909/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" /> </p>
 
 
