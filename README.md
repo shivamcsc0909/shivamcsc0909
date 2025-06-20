@@ -1,17 +1,15 @@
-<h2 align="center">🛠️ My Tech Toolbox</h2>
+  <h2 align="center">🛠️ My Tech Toolbox</h2>
 
 <p align="center">
-  <em>Here’s a list of technologies and tools I’ve worked with across projects, internships, and freelancing — from backend APIs to frontend interfaces, from AI to cloud.</em>
+  <em>Here's a curated list of technologies and tools I've worked with — across full-stack development, AI/ML, DevOps, databases, CMS, APIs, and digital marketing platforms. These represent hands-on experience from academic projects, internships, freelance gigs, and real-world applications.</em>
 </p>
 
-<h2 align="center">🛠️ My Tech Toolbox</h2>
-<p align="center">
-  <em>Here’s a list of technologies and tools I’ve worked with — across development, AI/ML, DevOps, CMS, APIs, and marketing platforms.</em>
-</p>
 <br/>
-
 <table align="center">
-  
+  <!-- your 10-row skill grid goes here -->
+</table>
+
+
   <!-- Row 1: Programming Languages -->
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
