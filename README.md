@@ -4,25 +4,78 @@
 
 ### 🎓 BCA Graduate | 💻 Full-Stack Developer (MERN) | 🤖 AI & ML Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Shivam%20🚀&fontSize=40&animation=fadeIn" /> <div align="center"> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Web+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Quick+Learner&color=cyan&center=true&width=500&height=50" /> </p>
+<div align="center"><!-- Animated Header with 3D Effect --><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Pandey!;+Full+Stack+Developer;+MERN+Stack+Specialist;+AI+%26+ML+Enthusiast;+Problem+Solver;&color=00FFFF&bold=true" /><!-- 3D Animated Banner --><img src="https://i.imgur.com/8MupZHY.gif" width="100%"/><!-- Social Badges with Animation --><div align="center" style="margin: 20px 0;">
+ 
+</div></div>
+📊 GitHub Analytics & Activity
+<div align="center">
+  
+<!-- GitHub Stats Grid -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamcsc0909&theme=radical&hide_border=true" width="48%" />
+</div>
 
-<br>
+<!-- Second Row - Languages and Contribution Stats -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=shivamcsc0909" width="50%" style="height: 275px; object-fit: cover;"/>
+</div>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-informational?style=for-the-badge)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivampandey-tech)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/shivamcsc0909)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampandeyyuyu@gmail.com)
-
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcsc0909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 
 </div>
 
+<!-- 3D Contribution Graph -->
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamcsc0909&theme=radical&no-frame=true&row=1&column=7" width="100%" />
+</div>
 
+## 🤝 Let's Connect & Collaborate
 
-<a href="https://your-domain.com/your-resume.pdf" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/> </a>
+<p align="center">
+  <a href="https://shivam-portfolio-pandey.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shivampandey-tech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shivamcsc0909" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shivampandeyyuyu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shivamcsc0909&color=blueviolet&style=flat" /> </p> </div>
+<p align="center">
+  <a href="https://shivam-portfolio-pandey.netlify.app/resume" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/shivamcsc0909" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/shivampandeyyuyu" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@curious_shivam01" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-## 🧭 Objective
+</div>
+
+<br>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=shivamcsc0909&color=blueviolet&style=flat" /> 
+</p>
+
+</div>
+
+## 🎯 Objective
 
 <div align="center">
 
@@ -31,15 +84,21 @@
 > I aim to collaborate with forward-thinking teams while sharpening my technical & problem-solving skills.
 
 </div>
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=shivamcsc0909&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-📊 GitHub Stats & Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://streak-stats.demolab.com?user=shivamcsc0909&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcsc0909&theme=tokyo-night&hide_border=true" width="48%" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shivamcsc0909&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcsc0909&theme=tokyo-night&hide_border=true" width="48%" />
+</p>
 
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamcsc0909&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 
 <!-- 🛠️ Technical Skills - 8x8 Grid Layout (64 Boxes) --> 
@@ -151,10 +210,15 @@
 
 
 
-
 ## 💼 Professional Experience
 
 <div align="left" style="margin: 0 40px;">
+
+### 🔹 React Developer @ Admark Digital Media
+- Developed dynamic and responsive web applications using React.js, Redux, and modern frontend technologies
+- Built reusable components and custom hooks to improve development efficiency and code maintainability
+- Implemented state management solutions and optimized application performance for better user experience
+- Collaborated with design and backend teams to deliver seamless and interactive user interfaces
 
 ### 🔹 Full Stack Web Developer Trainee @ EXL Services, Delhi  
 **Duration:** *6-Month Training Program*  
@@ -169,8 +233,6 @@
 - Collaborated closely with UI/UX design team for debugging & enhancing user experience features  
 
 </div>
-
-
 
 ## 🚀 Featured Projects
 
@@ -287,7 +349,7 @@
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2" style="padding: 25px;">
+<td align="center" style="padding: 25px; width: 400px;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/money.png" width="60"/></a>
 <br><br>
 <h3><b>💰 Personal Finance Tracker</b></h3>
@@ -300,6 +362,103 @@
 <br>
 🎬 <a href="#"><strong>Watch Demo</strong></a>
 </td>
+<td align="center" style="padding: 25px; width: 400px;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/crm.png" width="60"/></a>
+<br><br>
+<h3><b>📊 CRM System</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br><br>
+<p><sub>Customer Relationship Management system with lead tracking, sales pipeline and analytics dashboard.</sub></p>
+<br>
+🔗 <a href="#"><strong>View Source Code</strong></a>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 25px; width: 400px;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/enterprise-resource-planning.png" width="60"/></a>
+<br><br>
+<h3><b>🏭 SAP Integration Portal</b></h3>
+<br>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<br><br>
+<p><sub>Enterprise resource planning integration portal with SAP connectivity and business process automation.</sub></p>
+<br>
+🌐 <a href="#"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/learning.png" width="60"/></a>
+<br><br>
+<h3><b>🎓 E-Learning Platform</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+<br><br>
+<p><sub>Interactive learning management system with video streaming, quizzes and progress tracking.</sub></p>
+<br>
+🌐 <a href="#"><strong>Live Platform</strong></a>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 25px; width: 400px;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/health-data.png" width="60"/></a>
+<br><br>
+<h3><b>🏥 Healthcare Management</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br><br>
+<p><sub>Patient records management system with appointment scheduling and medical history tracking.</sub></p>
+<br>
+🎬 <a href="#"><strong>Watch Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/social-media.png" width="60"/></a>
+<br><br>
+<h3><b>📱 Social Media Dashboard</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white"/>
+<br><br>
+<p><sub>Social media analytics dashboard with real-time metrics and engagement tracking across platforms.</sub></p>
+<br>
+🔗 <a href="#"><strong>View Source</strong></a>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 25px; width: 400px;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/transportation.png" width="60"/></a>
+<br><br>
+<h3><b>🚚 Logistics Tracker</b></h3>
+<br>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<br><br>
+<p><sub>Real-time shipment tracking system with route optimization and delivery status updates.</sub></p>
+<br>
+🌐 <a href="#"><strong>Live Tracker</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/restaurant.png" width="60"/></a>
+<br><br>
+<h3><b>🍕 Food Delivery App</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+<br><br>
+<p><sub>Mobile food ordering application with real-time tracking, payments and restaurant management.</sub></p>
+<br>
+📱 <a href="#"><strong>App Demo</strong></a>
+</td>
 </tr>
 </table>
 
@@ -311,32 +470,141 @@
 
 <div align="center">
 
-🎓 **Bachelor of Computer Applications (BCA)**  
-**Maharaja Agrasen Himalayan Garhwal University**  
-📆 **2021 – 2024**
+<table>
+  <tr>
+    <td align="center" width="33.3%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; color: white;">
+        <strong>🎓 Diploma</strong><br>
+        <strong>Computer Science & Engineering</strong><br>
+        Hanswahini Institute of Science and Technology<br>
+        Prayagraj
+      </div>
+    </td>
+    <td align="center" width="33.3%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; color: white;">
+        <strong>🎓 BCA</strong><br>
+        <strong>Bachelor of Computer Applications</strong><br>
+        Maharaja Agrasen Himalayan Garhwal University<br>
+        2021 – 2024
+      </div>
+    </td>
+    <td align="center" width="33.3%">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 10px; color: white;">
+        <strong>🎓 MCA</strong><br>
+        <strong>Master of Computer Applications</strong><br>
+         Maharaja Agrasen Himalayan Garhwal University<br>
+        Pursuing<br>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+<div align="center">
 
- <details>
-<summary>Click to see Backend Skills</summary>
+<div align="center">
 
-- Node.js  
-- Express.js  
-- REST API  
+## 🛠️ specific Technical Skills
+
+<table border="0" style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin: 5px; color: white;">
+        <strong>🔧 Backend</strong><br>
+        Node.js<br>
+        Express.js<br>
+        REST API
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; margin: 5px; color: white;">
+        <strong>⚡ API</strong><br>
+        RESTful APIs<br>
+        GraphQL<br>
+        WebSocket
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 10px; margin: 5px; color: white;">
+        <strong>🎨 Three.js</strong><br>
+        3D Graphics<br>
+        WebGL<br>
+        3D Animations
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px; border-radius: 10px; margin: 5px; color: white;">
+        <strong>✨ Particle.js</strong><br>
+        Particle Effects<br>
+        Canvas Animations<br>
+        Visual Effects
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 15px; border-radius: 10px; margin: 5px; color: white;">
+        <strong>🚀 GSAP</strong><br>
+        Advanced Animations<br>
+        Timeline Control<br>
+        Smooth Transitions
+      </div>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><strong style="color: #0366d6; font-size: 18px;">🎯 Click to Expand Technical Skills</strong></summary>
+
+<br>
+
+<table border="0" style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" width="33%">
+      <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #e9ecef; margin: 5px;">
+        <strong>🔷 Backend Technologies</strong><br>
+        ▸ Node.js<br>
+        ▸ Express.js<br>
+        ▸ MongoDB<br>
+        ▸ Mongoose<br>
+        ▸ REST API
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #e9ecef; margin: 5px;">
+        <strong>🔶 API & Integration</strong><br>
+        ▸ RESTful APIs<br>
+        ▸ GraphQL<br>
+        ▸ WebSocket<br>
+        ▸ JWT Authentication<br>
+        ▸ API Documentation
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #e9ecef; margin: 5px;">
+        <strong>🎨 Animation & Graphics</strong><br>
+        ▸ Three.js<br>
+        ▸ Particle.js<br>
+        ▸ WebGL<br>
+        ▸ GSAP<br>
+        ▸ Canvas API
+      </div>
+    </td>
+  </tr>
+</table>
 
 </details>
 
-
+</div>
 
 ### 🚀 Featured Projects
-
+<div align="center">
 - [E-Shopper](https://github.com/username/e-shopper) — MERN E-commerce app with Stripe integration.  
 - [AI Chatbot](https://github.com/username/ai-chatbot) — Python-based NLP chatbot with FastAPI.
+</div>
 
 
 
-### 📅 2025 Learning Goals
+### 📅 2026 Learning Goals
 
 #### ✅ Frontend & UI
 - [ ] Master Tailwind CSS  
@@ -365,29 +633,23 @@
 
 
 
+## 📜 Certifications & Achievements
 
-
-
-## 🏆 Certifications & Achievements
-
-| 📜 **Certifications**                                                                 | 🏅 **Achievements**                                                        |
-|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ✅ **Full Stack Web Development** – EXL Services                                       | 🏆 **Hackathon Participant** – Competed in Multiple Tech Competitions       |
-| ✅ **Data Structures and Algorithms** – Comprehensive Certification                    | 🌟 **Open Source Contributor** – Active GitHub & Community Projects         |
-| 🎓 **AI for Beginners** – Foundational AI Concepts                                     |                                                                             |
-| 📊 **Power BI Webinar** – Business Intelligence Tools                                  |                                                                             |
-| 📈 **Data Mining Through R** – Data Science Techniques                                 |                                                                             |
-| 🧠 **Cybersecurity Awareness** – Security Fundamentals                                 |                                                                             |
-| 🌐 **Fullstack Web Development Webinar** – Industry Insights                           |                                                                             |
-
-
+| 📜 **Certifications** | 🏅 **Achievements** |
+|:----------------------|:-------------------|
+| ✅ **Full Stack Web Development** – EXL Services | 🏆 **Hackathon Participant** – Competed in Multiple Tech Competitions |
+| ✅ **Data Structures and Algorithms** – Comprehensive Certification | 🌟 **Open Source Contributor** – Active GitHub & Community Projects |
+| 🎓 **AI for Beginners** – Foundational AI Concepts | 👨‍🏫 **Bootcamp Education Volunteer** – Mentored aspiring developers |
+| 📊 **Power BI Webinar** – Business Intelligence Tools | |
+| 📈 **Data Mining Through R** – Data Science Techniques | |
+| 🧠 **Cybersecurity Awareness** – Security Fundamentals | |
+| 🌐 **Fullstack Web Development Webinar** – Industry Insights | |
 
 ## 📈 Extracurricular Activities
 
 <div align="left">
 
-- 🧠 **Tech Exploration:** Actively exploring cutting-edge AI, ML & Data Science tools and frameworks  
-- 🎬 **Content Creation:** Running a dedicated tech YouTube channel sharing programming tutorials and insights  
+- 🧠 **Tech Exploration:** Actively exploring cutting-edge AI, ML & Data Science tools and frameworks
 - 🧑‍💻 **Freelance Services:** Providing professional web development, SEO optimization, and software solutions  
 - 🏆 **Community Engagement:** Regular participant in hackathons, tech bootcamps, and coding contests  
 - 🌍 **Open Source Development:** Contributing to and maintaining multiple open-source projects on GitHub  
@@ -400,25 +662,96 @@
 
 
 
-🐍 Contribution Activity<picture>
-<!-- 🐍 GitHub Contribution Snake Animation (Dark/Light Theme Support) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamcsc0909/shivamcsc0909/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamcsc0909/shivamcsc0909/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/shivamcsc0909/shivamcsc0909/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
-<p align="center"> <img src="https://github.com/shivamcsc0909/shivamcsc0909/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" /> </p>
 
 
 
 
-📫 Let's Connect & Collaborate
-<div align="center" style="margin: 30px 0;"> <table align="center" style="margin: 20px auto;"> <tr> <td align="center" style="padding: 15px;"> <a href="mailto:shivampandeyyuyu@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> </td> <td align="center" style="padding: 15px;"> <a href="https://www.linkedin.com/in/shivampandey-tech"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </td> <td align="center" style="padding: 15px;"> <a href="https://github.com/shivamcsc0909"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </td> <td align="center" style="padding: 15px;"> <a href="https://www.youtube.com/@curious_shivam01"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"> </a> </td> </tr> <tr> <td align="center" style="padding: 15px;"> <a href="https://leetcode.com/yourusername"> <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"> </a> </td> <td align="center" style="padding: 15px;"> <a href="https://codeforces.com/profile/yourusername"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"> </a> </td> <td align="center" style="padding: 15px;"> <a href="https://www.hackerrank.com/profile/shivampandeyyuyu"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"> </a> </td> <td align="center" style="padding: 15px;"> <a href="https://www.codechef.com/users/yourusername"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"> </a> </td> </tr> </table> </div>
 
 
-## 🔎 Personal Information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 💼 Professional Summary
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&width=600&height=50&lines=🚀+Professional+Summary;💻+Full+Stack+Developer;🤖+AI/ML+Engineer;☁️+Cloud+Specialist" alt="Header Animation" />
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=4FC0F0&background=0D1117&center=true&width=300&height=30&lines=MERN+Stack+Specialist" alt="MERN" />
+      <p align="left" style="margin-left: 20px;">
+        • Built 8+ production apps with React/Node<br>
+        • 40% performance optimization<br>
+        • MongoDB | Express | REST APIs
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=FFA116&background=0D1117&center=true&width=300&height=30&lines=Problem+Solver" alt="Problem Solver" />
+      <p align="left" style="margin-left: 20px;">
+        • 600+ LeetCode solutions<br>
+        • Codeforces | HackerRank 5★<br>
+        • Gold Badge recipient
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=FF6F00&background=0D1117&center=true&width=300&height=30&lines=AI/ML+Engineer" alt="AI/ML" />
+      <p align="left" style="margin-left: 20px;">
+        • TensorFlow | PyTorch | NLP<br>
+        • OpenAI API integrations<br>
+        • Custom model development
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=2EC866&background=0D1117&center=true&width=300&height=30&lines=Open+Source" alt="Open Source" />
+      <p align="left" style="margin-left: 20px;">
+        • 20+ repositories<br>
+        • 50+ contributions<br>
+        • 3 hackathon wins
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=0078D4&background=0D1117&center=true&width=300&height=30&lines=Cloud+Developer" alt="Cloud" />
+      <p align="left" style="margin-left: 20px;">
+        • AWS Certified<br>
+        • Docker/Kubernetes CI/CD<br>
+        • Azure | GCP experience
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1500&pause=500&color=9C27B0&background=0D1117&center=true&width=300&height=30&lines=Team+Player" alt="Team Player" />
+      <p align="left" style="margin-left: 20px;">
+        • 10+ client collaborations<br>
+        • Mentored 5+ juniors<br>
+        • Agile team experience
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+# 🔎 Personal Information
 
 <div align="center">
 
@@ -427,7 +760,7 @@
 | 📍 **Location** | New Ashok Nagar, Delhi |
 | 📞 **Contact** | +91-9554584978 |
 | 📧 **Email** | shivampandeyyuyu@gmail.com |
-| 🗓️ **Date of Birth** | 22 March 2003 |
+| 🗓️ **Date of Birth** | 08 March 2003 |
 | 🧬 **Blood Group** | O+ |
 | 🗣️ **Languages** | English, Hindi |
 
@@ -439,10 +772,9 @@
 
 
 
-🔄 Last Updated: June 2025
+🔄 Last Updated: November 2025
 Made with ❤️ by Shivam Pandey
 
 ⭐ If you found this profile interesting, don't forget to star my repositories!
 </div>
-
-
+ 
