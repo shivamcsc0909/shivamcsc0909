@@ -605,7 +605,7 @@
 
 
 ### 📅 2026 Learning Goals
-
+<div align ="left">
 #### ✅ Frontend & UI
 - [ ] Master Tailwind CSS  
 - [ ] Master ES6 JavaScript  
@@ -631,7 +631,7 @@
 #### 🌐 Community & Contribution
 - [X] Contribute to Open Source  
 
-
+</div>
 
 ## 📜 Certifications & Achievements
 
@@ -772,7 +772,7 @@
 
 
 
-🔄 Last Updated: November 2025
+🔄 Last Updated: October 2025
 Made with ❤️ by Shivam Pandey
 
 ⭐ If you found this profile interesting, don't forget to star my repositories!
