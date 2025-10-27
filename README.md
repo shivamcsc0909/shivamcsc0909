@@ -18,8 +18,8 @@
 
 <!-- Second Row - Languages and Contribution Stats -->
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-contribution-stats.vercel.app/api/?username=shivamcsc0909" width="50%" style="height: 275px; object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=radical&hide_border=true" width="100%" />
+   
 </div>
 
 <!-- Activity Graph -->
