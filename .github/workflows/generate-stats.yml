@@ -1,0 +1,25 @@
+name: Generate README stats images
+on:
+  schedule:
+    - cron: '0 3 * * *'   # daily at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+      - name: Capture stats image
+        run: |
+          mkdir -p media
+          CHROME_BIN=/usr/bin/chromium-browser \
+          /usr/bin/chromium-browser --headless --disable-gpu --screenshot=media/stats.png "https://github-readme-stats-three-gold-87.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=radical&hide_border=true"
+      - name: Commit images
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update stats images"
+          file_pattern: "media/*"
