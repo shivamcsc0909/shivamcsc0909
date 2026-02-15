@@ -8,36 +8,14 @@
  
 </div></div>
 
-<img src="https://streak-stats.demolab.com/?user=anuraghazra&theme=radical" width="48%" />
-
-<div align="center">
-
-<h2 style="color:#ff4c60;">📊 GitHub Analytics & Activity</h2>
-
-<img src="https://dummyimage.com/600x250/20232a/61dafb&text=Shivam+Stats+Card" width="48%" />
-
-<img src="https://dummyimage.com/600x250/20232a/61dafb&text=Top+Languages+Card" width="48%" />
-
-<br>
-
-<br>
-
-<img src="https://dummyimage.com/1200x250/20232a/61dafb&text=Contribution+Activity+Graph" width="100%" />
-
-<br><br>
-
-<h3 style="color:#ffd700;">🏆 GitHub Trophies</h3>
-
-<img src="https://dummyimage.com/1200x200/20232a/ffd700&text=Achievement+Trophies" width="100%" />
-
-</div>
 
 
-
-
+## 📊 GitHub Analytics
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcsc0909&theme=tokyo-night&hide_border=true" width="48%" />
+  
 <img src="https://via.placeholder.com/400x150/ff69b4/000000?text=Shivam's+Stats" />
 
-
+<img src="https://streak-stats.demolab.com/?user=anuraghazra&theme=radical" width="48%" />
 
 
 
@@ -107,22 +85,8 @@
 > I aim to collaborate with forward-thinking teams while sharpening my technical & problem-solving skills.
 
 </div>
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=shivamcsc0909&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcsc0909&theme=tokyo-night&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamcsc0909&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
+ 
 
 <!-- 🛠️ Technical Skills - 8x8 Grid Layout (64 Boxes) --> 
 <div align="center">
