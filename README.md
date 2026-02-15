@@ -8,41 +8,34 @@
  
 </div></div>
 
-📊 GitHub Analytics & Activity
+<img src="https://streak-stats.demolab.com/?user=anuraghazra&theme=radical" width="48%" />
+
 <div align="center">
 
-<!-- GitHub Stats Grid -->
-<div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:20px;">
-  <!-- Replace YOUR_DOMAIN_STATS with your deployment domain (example: github-readme-stats-yourname.vercel.app) -->
-  <img src="https://YOUR_DOMAIN_STATS/api?username=shivamcsc0909&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <!-- Streaks - using demolab fallback -->
-  <img src="https://streak-stats.demolab.com/?user=shivamcsc0909&theme=radical&hide_border=true" width="48%" alt="Streak Stats" />
-</div>
+<h2 style="color:#ff4c60;">📊 GitHub Analytics & Activity</h2>
 
-<!-- Languages -->
-<div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:20px;">
-  <img src="https://YOUR_DOMAIN_STATS/api/top-langs/?username=shivamcsc0909&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages" />
-</div>
+<img src="https://dummyimage.com/600x250/20232a/61dafb&text=Shivam+Stats+Card" width="48%" />
 
-<!-- Activity Graph -->
-<!-- Replace YOUR_DOMAIN_ACTIVITY with your activity-graph deployment -->
-<img src="https://YOUR_DOMAIN_ACTIVITY/graph?username=shivamcsc0909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://dummyimage.com/600x250/20232a/61dafb&text=Top+Languages+Card" width="48%" />
 
-<!-- Trophies -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <!-- Replace YOUR_DOMAIN_TROPHY with your profile-trophy deployment -->
-  <img src="https://YOUR_DOMAIN_TROPHY/?username=shivamcsc0909&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="Trophies" />
-</div>
+<br>
+
+<br>
+
+<img src="https://dummyimage.com/1200x250/20232a/61dafb&text=Contribution+Activity+Graph" width="100%" />
+
+<br><br>
+
+<h3 style="color:#ffd700;">🏆 GitHub Trophies</h3>
+
+<img src="https://dummyimage.com/1200x200/20232a/ffd700&text=Achievement+Trophies" width="100%" />
 
 </div>
 
 
 
 
-
-
-
+<img src="https://via.placeholder.com/400x150/ff69b4/000000?text=Shivam's+Stats" />
 
 
 
