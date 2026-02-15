@@ -7,31 +7,61 @@
 <div align="center"><!-- Animated Header with 3D Effect --><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Pandey!;+Full+Stack+Developer;+MERN+Stack+Specialist;+AI+%26+ML+Enthusiast;+Problem+Solver;&color=00FFFF&bold=true" /><!-- 3D Animated Banner --><img src="https://i.imgur.com/8MupZHY.gif" width="100%"/><!-- Social Badges with Animation --><div align="center" style="margin: 20px 0;">
  
 </div></div>
+
 📊 GitHub Analytics & Activity
 <div align="center">
-  
+
 <!-- GitHub Stats Grid -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamcsc0909&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamcsc0909&theme=radical&hide_border=true" width="48%" />
+<div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:20px;">
+  <!-- Replace YOUR_DOMAIN_STATS with your deployment domain (example: github-readme-stats-yourname.vercel.app) -->
+  <img src="https://YOUR_DOMAIN_STATS/api?username=shivamcsc0909&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <!-- Streaks - using demolab fallback -->
+  <img src="https://streak-stats.demolab.com/?user=shivamcsc0909&theme=radical&hide_border=true" width="48%" alt="Streak Stats" />
 </div>
 
-<!-- Second Row - Languages and Contribution Stats -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcsc0909&layout=compact&theme=radical&hide_border=true" width="100%" />
-   
+<!-- Languages -->
+<div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:20px;">
+  <img src="https://YOUR_DOMAIN_STATS/api/top-langs/?username=shivamcsc0909&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages" />
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamcsc0909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+<!-- Replace YOUR_DOMAIN_ACTIVITY with your activity-graph deployment -->
+<img src="https://YOUR_DOMAIN_ACTIVITY/graph?username=shivamcsc0909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
 
-</div>
-
-<!-- 3D Contribution Graph -->
-🏆 GitHub Trophies
+<!-- Trophies -->
+<h3 align="center">🏆 GitHub Trophies</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamcsc0909&theme=radical&no-frame=true&row=1&column=7" width="100%" />
+  <!-- Replace YOUR_DOMAIN_TROPHY with your profile-trophy deployment -->
+  <img src="https://YOUR_DOMAIN_TROPHY/?username=shivamcsc0909&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="Trophies" />
 </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -233,14 +263,14 @@
 - Collaborated closely with UI/UX design team for debugging & enhancing user experience features  
 
 </div>
-
 ## 🚀 Featured Projects
 
 <div align="center" style="margin: 40px 0;">
 
-<table style="margin: 20px auto;">
+<table style="margin: 20px auto; border-collapse: collapse;">
+<!-- Row 1 -->
 <tr>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/task.png" width="60"/></a>
 <br><br>
 <h3><b>🔥 Task Management App</b></h3>
@@ -255,7 +285,7 @@
 <br>
 🔗 <a href="#"><strong>View Source Code</strong></a>
 </td>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/shopping-cart.png" width="60"/></a>
 <br><br>
 <h3><b>🛒 E-Commerce Platform</b></h3>
@@ -268,8 +298,10 @@
 🌐 <a href="#"><strong>Live Demo</strong></a>
 </td>
 </tr>
+
+<!-- Row 2 -->
 <tr>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/chat.png" width="60"/></a>
 <br><br>
 <h3><b>💬 Real-Time Chat Application</b></h3>
@@ -281,7 +313,7 @@
 <br>
 🌐 <a href="#"><strong>Live Demo</strong></a>
 </td>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/robot-2.png" width="60"/></a>
 <br><br>
 <h3><b>🤖 AI Sentiment Chatbot</b></h3>
@@ -294,8 +326,10 @@
 🎬 <a href="#"><strong>Watch Demo</strong></a>
 </td>
 </tr>
+
+<!-- Row 3 -->
 <tr>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/job.png" width="60"/></a>
 <br><br>
 <h3><b>💼 Job Portal with Admin Panel</b></h3>
@@ -307,7 +341,7 @@
 <br>
 🎬 <a href="#"><strong>Watch Demo</strong></a>
 </td>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/domain.png" width="60"/></a>
 <br><br>
 <h3><b>🏢 Business Portfolio Website</b></h3>
@@ -320,8 +354,10 @@
 🌐 <a href="#"><strong>Live Website</strong></a>
 </td>
 </tr>
+
+<!-- Row 4 -->
 <tr>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/blog.png" width="60"/></a>
 <br><br>
 <h3><b>📝 Custom Blog Platform</b></h3>
@@ -333,7 +369,7 @@
 <br>
 🎬 <a href="#"><strong>Watch Demo</strong></a>
 </td>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/picture.png" width="60"/></a>
 <br><br>
 <h3><b>🎨 Interactive Web Gallery</b></h3>
@@ -348,8 +384,10 @@
 📁 <a href="#"><strong>Multiple Live Projects</strong></a>
 </td>
 </tr>
+
+<!-- Row 5 -->
 <tr>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/money.png" width="60"/></a>
 <br><br>
 <h3><b>💰 Personal Finance Tracker</b></h3>
@@ -362,7 +400,7 @@
 <br>
 🎬 <a href="#"><strong>Watch Demo</strong></a>
 </td>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/crm.png" width="60"/></a>
 <br><br>
 <h3><b>📊 CRM System</b></h3>
@@ -376,8 +414,10 @@
 🔗 <a href="#"><strong>View Source Code</strong></a>
 </td>
 </tr>
+
+<!-- Row 6 -->
 <tr>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/enterprise-resource-planning.png" width="60"/></a>
 <br><br>
 <h3><b>🏭 SAP Integration Portal</b></h3>
@@ -390,7 +430,7 @@
 <br>
 🌐 <a href="#"><strong>Live Demo</strong></a>
 </td>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/learning.png" width="60"/></a>
 <br><br>
 <h3><b>🎓 E-Learning Platform</b></h3>
@@ -404,8 +444,10 @@
 🌐 <a href="#"><strong>Live Platform</strong></a>
 </td>
 </tr>
+
+<!-- Row 7 -->
 <tr>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/health-data.png" width="60"/></a>
 <br><br>
 <h3><b>🏥 Healthcare Management</b></h3>
@@ -418,7 +460,7 @@
 <br>
 🎬 <a href="#"><strong>Watch Demo</strong></a>
 </td>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/social-media.png" width="60"/></a>
 <br><br>
 <h3><b>📱 Social Media Dashboard</b></h3>
@@ -432,8 +474,10 @@
 🔗 <a href="#"><strong>View Source</strong></a>
 </td>
 </tr>
+
+<!-- Row 8 -->
 <tr>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/transportation.png" width="60"/></a>
 <br><br>
 <h3><b>🚚 Logistics Tracker</b></h3>
@@ -446,7 +490,7 @@
 <br>
 🌐 <a href="#"><strong>Live Tracker</strong></a>
 </td>
-<td align="center" style="padding: 25px; width: 400px;">
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
 <a href="#"><img src="https://img.icons8.com/ios-filled/80/restaurant.png" width="60"/></a>
 <br><br>
 <h3><b>🍕 Food Delivery App</b></h3>
@@ -460,10 +504,353 @@
 📱 <a href="#"><strong>App Demo</strong></a>
 </td>
 </tr>
+
+<!-- ========== START OF CONVERTED PROJECTS FROM SECOND GRID ========== -->
+
+<!-- Row 9 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/game-controller.png" width="60"/></a>
+<br><br>
+<h3><b>🎮 Gaming Website</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Admin%20Panel-2C3E50?style=for-the-badge&logo=admin&logoColor=white"/>
+<br><br>
+<p><sub>Gaming website with admin panel built with React and TypeScript.</sub></p>
+<br>
+🌐 <a href="https://perfect-match-ui.vercel.app" target="_blank"><strong>Live Preview</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/crm.png" width="60"/></a>
+<br><br>
+<h3><b>📊 CRM Demo</b></h3>
+<br>
+<img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<br><br>
+<p><sub>DGMarket CRM demo deployed on Render.</sub></p>
+<br>
+🌐 <a href="https://dgmarket-crm.onrender.com/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 10 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/crm.png" width="60"/></a>
+<br><br>
+<h3><b>📊 Simple CRM</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<br><br>
+<p><sub>Simple CRM application deployed on Vercel.</sub></p>
+<br>
+🌐 <a href="https://my-first-crm.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/shopping-cart.png" width="60"/></a>
+<br><br>
+<h3><b>🛒 Smart Gadget Shop</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<br><br>
+<p><sub>E-commerce UI for smart gadgets.</sub></p>
+<br>
+🌐 <a href="https://smartgadgetshop.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 11 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/headphones.png" width="60"/></a>
+<br><br>
+<h3><b>🎧 HeadphonesOnly</b></h3>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br><br>
+<p><sub>Store UI for headphones.</sub></p>
+<br>
+🌐 <a href="https://headphonesonly.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/shopping-cart.png" width="60"/></a>
+<br><br>
+<h3><b>🛍️ ShoppingAppA</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<br><br>
+<p><sub>E-commerce UI demo.</sub></p>
+<br>
+🌐 <a href="https://shoppingappa.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 12 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/shop.png" width="60"/></a>
+<br><br>
+<h3><b>🏬 Marketplace (snowy-nine)</b></h3>
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<br><br>
+<p><sub>E-commerce marketplace built with v0.</sub></p>
+<br>
+🌐 <a href="https://v0-e-commerce-marketplace-snowy-nine.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/shop.png" width="60"/></a>
+<br><br>
+<h3><b>🏬 Marketplace (plum)</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<br><br>
+<p><sub>E-commerce frontend demo.</sub></p>
+<br>
+🌐 <a href="https://v0-e-commerce-frontend-build-plum.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 13 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/real-estate.png" width="60"/></a>
+<br><br>
+<h3><b>🏡 Real Estate Website</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<br><br>
+<p><sub>Villa options real estate website.</sub></p>
+<br>
+🌐 <a href="https://villaoptions.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/school.png" width="60"/></a>
+<br><br>
+<h3><b>🏫 School Website</b></h3>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br><br>
+<p><sub>School website template.</sub></p>
+<br>
+🌐 <a href="https://school-website-8hti.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 14 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/document.png" width="60"/></a>
+<br><br>
+<h3><b>📊 School Report Generator</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<br><br>
+<p><sub>Tool to generate school reports.</sub></p>
+<br>
+🌐 <a href="https://school-report-generator-eight.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/password.png" width="60"/></a>
+<br><br>
+<h3><b>🔐 Animated Login Page</b></h3>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br><br>
+<p><sub>Animated login page with live animation.</sub></p>
+<br>
+🌐 <a href="https://live-animation-login-page.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 15 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/fire.png" width="60"/></a>
+<br><br>
+<h3><b>🔥 Lava Flame Animation</b></h3>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canvas-API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br><br>
+<p><sub>Lava flame flow animation.</sub></p>
+<br>
+🌐 <a href="https://lava-flameflow-animation.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/advertising.png" width="60"/></a>
+<br><br>
+<h3><b>📣 Digital Marketing UI</b></h3>
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<br><br>
+<p><sub>Digital marketing landing page.</sub></p>
+<br>
+🌐 <a href="https://digital-mark-seven.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 16 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/car.png" width="60"/></a>
+<br><br>
+<h3><b>🚗 Range Rover 3D UI</b></h3>
+<br>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<br><br>
+<p><sub>3D car showcase with Range Rover.</sub></p>
+<br>
+🌐 <a href="https://rangerover3d.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/advertising.png" width="60"/></a>
+<br><br>
+<h3><b>🖼️ AdMark UI v2</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<br><br>
+<p><sub>Marketing UI version 2.</sub></p>
+<br>
+🌐 <a href="https://admark-2.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 17 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/advertising.png" width="60"/></a>
+<br><br>
+<h3><b>🖼️ AdMark UI v3</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<br><br>
+<p><sub>Marketing UI version 3.</sub></p>
+<br>
+🌐 <a href="https://admark-3.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/user.png" width="60"/></a>
+<br><br>
+<h3><b>💼 Portfolio</b></h3>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<br><br>
+<p><sub>Personal portfolio website (Shivam Pandey).</sub></p>
+<br>
+🌐 <a href="https://shivam-portfolio-pandey.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 18 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/shop.png" width="60"/></a>
+<br><br>
+<h3><b>🏬 GharkaMarket</b></h3>
+<br>
+<img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--vendor-2C3E50?style=for-the-badge&logo=shopify&logoColor=white"/>
+<br><br>
+<p><sub>Multi-vendor e-commerce platform.</sub></p>
+<br>
+🌐 <a href="https://gharkamarket.in/" target="_blank"><strong>Live Website</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/rubik.png" width="60"/></a>
+<br><br>
+<h3><b>🧩 Rubik 3D Game</b></h3>
+<br>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br><br>
+<p><sub>3D Rubik's cube game.</sub></p>
+<br>
+🌐 <a href="https://rubik-game-sp.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 19 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/music.png" width="60"/></a>
+<br><br>
+<h3><b>🎧 DJ Shop Landing</b></h3>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br><br>
+<p><sub>Business intro for DJ shop.</sub></p>
+<br>
+🌐 <a href="https://dj-intro.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/tools.png" width="60"/></a>
+<br><br>
+<h3><b>🛠️ Mobile & Laptop Repair</b></h3>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br><br>
+<p><sub>Landing page for repair shop.</sub></p>
+<br>
+🌐 <a href="https://balaji-mobile-laptop-repairing.netlify.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+</tr>
+
+<!-- Row 20 -->
+<tr>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/trading.png" width="60"/></a>
+<br><br>
+<h3><b>📈 Trading Website Landing</b></h3>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br><br>
+<p><sub>Landing page for traders.</sub></p>
+<br>
+🌐 <a href="https://traders-ll2q.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+</td>
+<td align="center" style="padding: 25px; width: 400px; vertical-align: top;">
+<a href="#"><img src="https://img.icons8.com/ios-filled/80/domain.png" width="60"/></a>
+<br><br>
+<h3><b>🌐 RankRise USA</b></h3>
+<br>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<br><br>
+<p><sub>Professional digital marketing and IT services website.</sub></p>
+<br>
+🌐 <a href="https://rankriseusa.com/" target="_blank"><strong>Live Website</strong></a>
+</td>
+</tr>
+
 </table>
-
 </div>
-
 
 
 ## 📘 Education
@@ -594,12 +981,6 @@
 
 </details>
 
-</div>
-
-### 🚀 Featured Projects
-<div align="center">
-- [E-Shopper](https://github.com/username/e-shopper) — MERN E-commerce app with Stripe integration.  
-- [AI Chatbot](https://github.com/username/ai-chatbot) — Python-based NLP chatbot with FastAPI.
 </div>
 
 
@@ -772,7 +1153,7 @@
 
 
 
-🔄 Last Updated: October 2025
+🔄 Last Updated: Febuary 2026
 Made with ❤️ by Shivam Pandey
 
 ⭐ If you found this profile interesting, don't forget to star my repositories!
