@@ -1,360 +1,89 @@
-# Shivam Pandey - Developer Portfolio
+# Shivam Pandey - Full Stack & Mobile App Developer Portfolio
 
-A modern, production-ready developer portfolio website showcasing projects, skills, and experience with cutting-edge web technologies and 3D animations.
+[![Portfolio Live](https://img.shields.io/badge/Portfolio-shivam--pandey.com-00d8ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivam-pandey.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shivamcsc0909-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamcsc0909)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivampandey-tech/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Urban%20Power-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.urbanpower.app&hl=en_IN)
 
-## Features
-
-- **3D Interactive Hero Section**: WebGL-powered 3D scene with particle effects and interactive elements
-- **Dark/Light Theme Toggle**: Seamless theme switching with persistent preferences
-- **20+ Featured Projects**: Complete showcase of all projects with live links and technology tags
-- **Skills & Experience**: Animated skill progression bars and professional timeline
-- **Contact Modal**: Interactive contact form with direct communication options
-- **Smooth Animations**: Framer Motion and GSAP-powered transitions and microinteractions
-- **Fully Responsive**: Mobile-first design that works flawlessly on all devices
-- **Performance Optimized**: Fast loading times and optimized animations for all devices
-- **Accessibility**: WCAG compliant with proper ARIA labels and semantic HTML
-
-## Tech Stack
-
-### Frontend
-- **Next.js 16** - React framework with App Router
-- **React 19** - UI library
-- **TypeScript** - Type safety
-- **Tailwind CSS v4** - Utility-first styling
-- **Framer Motion** - Advanced animations
-- **GSAP** - Animation library
-- **Three.js & react-three-fiber** - 3D graphics and WebGL
-
-### Components & UI
-- **shadcn/ui** - High-quality UI components
-- **Lucide Icons** - Beautiful, consistent icons
-- **Radix UI** - Accessible primitive components
-
-### Deployment
-- **Vercel** - Recommended hosting platform
-- **Next.js Deployment** - Zero-config deployment
-
-## Getting Started
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn package manager
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd portfolio
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Run development server**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-4. **Open in browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
-
-## Configuration
-
-### Update Personal Information
-
-Edit the following files to personalize the portfolio:
-
-#### `/components/header.tsx` - Social Links
-Update social media links in the `socialLinks` array:
-```typescript
-const socialLinks = [
-  {
-    icon: Github,
-    href: 'https://github.com/yourusername',
-    label: 'GitHub',
-  },
-  // ... other links
-];
-```
-
-#### `/components/hero.tsx` - CV Download Link
-Replace the CV download link:
-```typescript
-<a
-  href="https://drive.google.com/file/d/YOUR_CV_ID/view"
-  target="_blank"
-  rel="noopener noreferrer"
->
-```
-
-#### `/lib/projects.ts` - Add/Modify Projects
-Update the `projects` array to showcase your own projects:
-```typescript
-export const projects: Project[] = [
-  {
-    id: '1',
-    title: 'Project Title',
-    description: 'Project description',
-    liveUrl: 'https://project-url.com',
-    technologies: ['React', 'Node.js', 'MongoDB'],
-    category: 'web-app',
-  },
-  // ... more projects
-];
-```
-
-#### `/lib/experience.ts` - Work Experience & Skills
-Update your professional experience, skills, and education:
-```typescript
-export const skillCategories: SkillCategory[] = [
-  {
-    category: 'Languages',
-    skills: [
-      { name: 'JavaScript', level: 95 },
-      // ... more skills
-    ],
-  },
-];
-
-export const experiences: Experience[] = [
-  {
-    role: 'Your Job Title',
-    company: 'Company Name',
-    period: '2024 - Present',
-    // ... more details
-  },
-];
-```
-
-### Update Contact Information
-
-Edit `/components/footer.tsx` and `/components/header.tsx` to update:
-- Email: `shivampandeyyuyu@gmail.com`
-- Phone: `+91-9554584978`
-- Location: `New Ashok Nagar, Delhi, India`
-- WhatsApp: `https://wa.me/919554584978`
-
-### Theme Customization
-
-Edit `/app/globals.css` to customize colors:
-
-```css
-:root {
-  --primary: oklch(0.45 0.2 260);    /* Primary color */
-  --accent: oklch(0.65 0.15 180);    /* Accent color */
-  --background: oklch(0.98 0.01 0);  /* Background */
-  /* ... other variables */
-}
-
-.dark {
-  --primary: oklch(0.7 0.18 260);
-  /* ... dark theme colors */
-}
-```
-
-## Project Structure
-
-```
-portfolio/
-├── app/
-│   ├── layout.tsx           # Root layout with theme provider
-│   ├── page.tsx            # Home page (all sections)
-│   └── globals.css         # Global styles and theme
-├── components/
-│   ├── header.tsx          # Navigation and theme toggle
-│   ├── hero.tsx            # Hero section with 3D canvas
-│   ├── hero-scene.tsx      # Three.js 3D scene
-│   ├── about-section.tsx   # About section
-│   ├── skills-section.tsx  # Skills with progress bars
-│   ├── projects-section.tsx # Projects grid
-│   ├── experience-section.tsx # Work experience timeline
-│   ├── contact-modal.tsx   # Contact form modal
-│   ├── cta-section.tsx     # Call-to-action section
-│   ├── footer.tsx          # Footer with links
-│   └── ui/                 # shadcn/ui components
-├── lib/
-│   ├── projects.ts         # Projects data
-│   └── experience.ts       # Skills and experience data
-├── hooks/
-│   └── use-scroll-animation.ts # Scroll animation hook
-└── public/                 # Static assets
-```
-
-## Deployment
-
-### Deploy to Vercel (Recommended)
-
-Vercel offers seamless Next.js deployment with one-click setup:
-
-1. **Push code to GitHub**
-   ```bash
-   git push origin main
-   ```
-
-2. **Connect to Vercel**
-   - Go to [vercel.com](https://vercel.com)
-   - Click "New Project"
-   - Import your GitHub repository
-   - Vercel auto-detects Next.js settings
-
-3. **Deploy**
-   - Click "Deploy"
-   - Your site is live! 🚀
-
-### Deploy to Netlify
-
-1. **Build the project**
-   ```bash
-   npm run build
-   ```
-
-2. **Deploy folder**
-   - Drag and drop the `.next` folder to Netlify
-   - Or connect GitHub for auto-deployments
-
-## Performance Optimization
-
-### Image Optimization
-- All images use Next.js `Image` component
-- Automatic WebP format conversion
-- Lazy loading for off-screen images
-
-### Code Splitting
-- Automatic route-based code splitting
-- Dynamic imports for heavy components
-- Tree-shaking unused code
-
-### CSS Optimization
-- Tailwind CSS purges unused styles
-- Critical CSS inlined
-- CSS-in-JS minimized
-
-### Animation Performance
-- GPU-accelerated transforms
-- requestAnimationFrame for smooth animations
-- Reduced motion support with `prefers-reduced-motion`
-
-### Monitoring
-Run Lighthouse audit:
-```bash
-npm run build
-# Then use Chrome DevTools > Lighthouse
-```
-
-## Accessibility Checklist
-
-- ✅ Semantic HTML structure
-- ✅ ARIA labels for interactive elements
-- ✅ Keyboard navigation support
-- ✅ Color contrast compliance (WCAG AA)
-- ✅ Focus indicators visible
-- ✅ Skip links for navigation
-- ✅ Alt text for meaningful images
-- ✅ Screen reader friendly
-
-## Browser Support
-
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
-*Note: WebGL animations gracefully degrade on unsupported devices*
-
-## Environment Variables
-
-Currently, this project requires no environment variables for basic functionality. However, for enhanced features, you may want to add:
-
-```env
-# Optional: Contact form backend
-NEXT_PUBLIC_API_URL=https://api.example.com
-```
-
-## Customization Tips
-
-### Change Font
-Edit `/app/layout.tsx`:
-```typescript
-import { Inter, Poppins } from 'next/font/google'
-
-const _poppins = Poppins({ subsets: ['latin'], weight: ['400', '600', '700'] });
-```
-
-### Modify Animation Speed
-Edit individual component files to adjust Framer Motion transition durations:
-```typescript
-transition={{ duration: 0.5 }} // Change duration
-```
-
-### Add New Sections
-Create new components in `/components` and import them in `/app/page.tsx`:
-```typescript
-import { NewSection } from '@/components/new-section';
-
-// Add to JSX
-<NewSection />
-```
-
-## Troubleshooting
-
-### 3D Scene Not Loading
-- Check browser supports WebGL
-- Verify Three.js dependencies installed
-- Check browser console for errors
-
-### Theme Not Persisting
-- Ensure localStorage is enabled
-- Check browser privacy settings
-- Clear cache and try again
-
-### Animations Stuttering
-- Reduce animation complexity
-- Enable hardware acceleration
-- Test with `prefers-reduced-motion` enabled
-
-## Contact & Support
-
-For questions or support, reach out:
-- Email: shivampandeyyuyu@gmail.com
-- WhatsApp: +91-9554584978
-- LinkedIn: [Shivam Pandey](https://www.linkedin.com/in/shivampandey-tech/)
-- GitHub: [@shivamcsc0909](https://github.com/shivamcsc0909)
-
-## License
-
-This portfolio template is available for personal and commercial use. Please give credit to Shivam Pandey if you use it as a template.
-
-## Changelog
-
-### v1.0.0 (2024)
-- Initial release
-- Hero section with 3D graphics
-- Projects showcase with 20+ projects
-- Skills and experience timeline
-- Dark/light theme support
-- Responsive design
-- Advanced animations and microinteractions
-
-## Future Enhancements
-
-- [ ] Blog section with articles
-- [ ] Case studies for featured projects
-- [ ] Integration with backend contact form
-- [ ] Analytics integration
-- [ ] Newsletter signup
-- [ ] Client testimonials section
-- [ ] Resume PDF download
-- [ ] More 3D interactive elements
+A high-performance, production-ready developer portfolio website engineered with Next.js App Router, React 19, TypeScript, Tailwind CSS, Three.js 3D WebGL animations, and comprehensive SEO standards.
 
 ---
 
-**Last Updated**: February 2024
+## 🌟 Key Highlights & Features
 
-**Built with ❤️ by Shivam Pandey**
+- 🌐 **Target Domain & SEO**: Optimized for `https://shivam-pandey.com` with automated XML sitemaps, semantic Schema.org JSON-LD tags, and optimized OpenGraph cards.
+- 🎨 **Hero Scene**: WebGL 3D scene with interactive particle systems, smooth ambient lighting, and sleek neon aesthetic.
+- 📱 **Mobile & Web Project Showcase (28+ Projects)**:
+  - **Urban Power Mobile App**: All-in-one home services on Google Play Store (`com.urbanpower.app`).
+  - **RJ UrbanPower Web Platform**: Service booking, verified technicians, and live tracking at [`rjurbanpower.in`](https://rjurbanpower.in).
+  - **DigiQlik Digital Agency**: Marketing, performance analytics, and lead capture at [`digiqlik.com`](https://digiqlik.com).
+  - **RankRise USA**: US-based SEO & growth marketing agency platform at [`rankriseusa.com`](https://rankriseusa.com).
+  - **Full Stack Platforms & SaaS**: E-commerce architectures, AI assistants, health monitors, real-time trackers, and cloud utilities.
+- 💼 **Experience Timeline**: Career milestones including RJ UrbanPower, DigiQlik, RankRiseUSA, EXL Services, and Admark, alongside BCA degree and verified tech certifications.
+- 📬 **High-Contrast Contact Form**: Integrated Web3Forms with real-time feedback and high-contrast inputs in both dark and light modes.
+- ⚡ **Multi-Page Architecture**: Dedicated fast routes (`/`, `/about`, `/projects`, `/experience`, `/skills`, `/contact`).
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js (App Router, Static Export ready)
+- **Language**: TypeScript, JavaScript (ES2024)
+- **3D & Graphics**: Three.js, React Three Fiber (`@react-three/fiber`), Drei (`@react-three/drei`)
+- **Animation**: Framer Motion, GSAP
+- **Styling**: Tailwind CSS, CSS Custom Properties, Lucide Icons, Radix UI Primitives
+- **Forms & Validation**: React Hook Form, Zod, Web3Forms API
+- **Deployment Targets**: Hostinger (LiteSpeed/Apache `.htaccess`), Vercel, Netlify, VPS / PM2
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone & Install
+```bash
+git clone https://github.com/shivamcsc0909/shivamcsc0909.git
+cd shivamcsc0909
+npm install
+```
+
+### 2. Local Development
+```bash
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### 3. Production Build & Export
+```bash
+npm run build
+```
+Generates an optimized static production export in the `out/` directory with `.htaccess`, `sitemap.xml`, and `robots.txt`.
+
+---
+
+## 📦 Deployment Guides
+
+### Option A: Hostinger (Shared Hosting / hPanel)
+1. Run `npm run build` to generate the `out/` folder.
+2. In Hostinger **hPanel** → **File Manager** → navigate to `public_html`.
+3. Upload all files from the `out/` folder (or upload `hostinger-build.zip` and extract it).
+4. The included `.htaccess` automatically manages SSL HTTPS enforcement, clean URL routing, and GZIP compression.
+
+### Option B: Vercel (1-Click)
+1. Import repository `shivamcsc0909/shivamcsc0909` on [vercel.com](https://vercel.com).
+2. Set Framework Preset: `Next.js`.
+3. Click **Deploy**.
+4. Attach custom domain `shivam-pandey.com` under Project Settings → Domains.
+
+---
+
+## 📞 Connect with Shivam Pandey
+
+- **Official Portfolio**: [https://shivam-pandey.com](https://shivam-pandey.com)
+- **Email**: [shivampandeyyuyu@gmail.com](mailto:shivampandeyyuyu@gmail.com)
+- **WhatsApp**: [+91-9554584978](https://wa.me/919554584978)
+- **Location**: New Ashok Nagar, Delhi, India
+- **LinkedIn**: [linkedin.com/in/shivampandey-tech](https://www.linkedin.com/in/shivampandey-tech/)
+- **GitHub**: [github.com/shivamcsc0909](https://github.com/shivamcsc0909)
+
+---
+© 2026 Shivam Pandey. Built with Next.js, Three.js & Tailwind CSS.
