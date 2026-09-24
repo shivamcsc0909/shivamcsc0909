@@ -12,5 +12,5 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-Sitemap: https://shivam-portfolio-pandey.netlify.app/sitemap.xml
-Host: https://shivam-portfolio-pandey.netlify.app
+Sitemap: https://shivam-pandey.com/sitemap.xml
+Host: https://shivam-pandey.com
