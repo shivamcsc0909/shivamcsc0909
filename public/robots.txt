@@ -1,0 +1,16 @@
+# Shivam Pandey Developer Portfolio Robots.txt
+User-agent: *
+Allow: /
+Disallow: /api/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://shivam-portfolio-pandey.netlify.app/sitemap.xml
+Host: https://shivam-portfolio-pandey.netlify.app
