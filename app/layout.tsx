@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
-const baseUrl = 'https://shivam-portfolio-pandey.netlify.app';
+const baseUrl = 'https://shivam-pandey.com';
 
 export const viewport: Viewport = {
   themeColor: [
@@ -18,18 +18,19 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Shivam Pandey | Full Stack & Mobile Developer • UI/UX & 3D Specialist',
+    default: 'Shivam Pandey — Full Stack & Mobile App Developer • UI/UX & 3D Specialist',
     template: '%s | Shivam Pandey Portfolio',
   },
-  description: 'Shivam Pandey is a Full Stack & Mobile Developer specializing in Node.js, React, TypeScript, PostgreSQL, TimescaleDB, React Native, Three.js 3D animations, Docker, and AWS cloud deployment. Explore 28+ verified live production projects.',
-  applicationName: 'Shivam Pandey Developer Hub',
+  description: 'Shivam Pandey is a Full Stack & Mobile App Developer specializing in Node.js, React, TypeScript, PostgreSQL, TimescaleDB, React Native, Three.js 3D animations, Docker, and AWS cloud deployment. Explore 25+ verified live production projects.',
+  applicationName: 'Shivam Pandey Developer Portfolio',
   authors: [{ name: 'Shivam Pandey', url: baseUrl }],
   generator: 'Next.js',
   keywords: [
     'Shivam Pandey',
     'Full Stack Developer',
-    'Mobile Developer',
-    'React Native',
+    'Mobile App Developer',
+    'React Native Developer',
+    'Android App Developer',
     'Node.js Developer',
     'PostgreSQL Specialist',
     'TimescaleDB OHLCV',
@@ -37,9 +38,9 @@ export const metadata: Metadata = {
     'Three.js 3D Portfolio',
     'WebGL GSAP Animation',
     'Docker AWS Deployment',
-    'Play Store Mobile Apps',
+    'Google Play Store Apps',
     'UI UX Specialist Delhi',
-    'Freelance Senior Developer'
+    'Freelance Senior Engineer'
   ],
   creator: 'Shivam Pandey',
   publisher: 'Shivam Pandey',
@@ -61,21 +62,21 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: baseUrl,
-    title: 'Shivam Pandey | Full Stack & Mobile Developer • UI/UX & 3D Specialist',
-    description: 'Transforming complex systems into production-ready web and mobile applications with Node.js, React, TypeScript, React Native, TimescaleDB, Three.js, and AWS.',
+    title: 'Shivam Pandey — Full Stack & Mobile App Developer • UI/UX & 3D Specialist',
+    description: 'Transforming complex engineering into silky-smooth user experiences with Node.js, React, TypeScript, React Native, TimescaleDB, Three.js, and AWS.',
     siteName: 'Shivam Pandey Portfolio',
     images: [
       {
         url: '/shivampandey.webp',
         width: 800,
         height: 800,
-        alt: 'Shivam Pandey - Full Stack & Mobile Developer',
+        alt: 'Shivam Pandey - Full Stack & Mobile App Developer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Shivam Pandey | Full Stack & Mobile Developer',
+    title: 'Shivam Pandey — Full Stack & Mobile App Developer',
     description: 'Full-stack web & mobile apps with Node.js, React, TypeScript, PostgreSQL, React Native & 3D WebGL animations.',
     creator: '@shivamcsc0909',
     images: ['/shivampandey.webp'],
@@ -98,30 +99,31 @@ const jsonLd = {
   name: 'Shivam Pandey',
   url: baseUrl,
   image: `${baseUrl}/shivampandey.webp`,
-  jobTitle: 'Full Stack & Mobile Developer',
+  jobTitle: 'Full Stack & Mobile App Developer',
   worksFor: {
     '@type': 'Organization',
     name: 'RJ UrbanPower Pvt. Ltd.',
   },
   alumniOf: {
     '@type': 'EducationalOrganization',
-    name: 'Maharaja Agrasen Himalayan Garhwal University',
+    name: 'Swami Vivekanand Subharti University',
   },
   address: {
     '@type': 'PostalAddress',
     addressLocality: 'New Ashok Nagar',
-    addressRegion: 'Delhi',
+    addressRegion: 'Delhi NCR',
     addressCountry: 'India',
   },
   sameAs: [
     'https://github.com/shivamcsc0909',
     'https://www.linkedin.com/in/shivampandey-tech/',
     'https://wa.me/919554584978',
-    'https://shivam-portfolio-pandey.netlify.app',
+    'https://www.instagram.com/its_shivampandey__/?hl=en',
+    'https://www.facebook.com/people/Shivam-Pandey/pfbid037pJmLokFTM9fg7wDnQF4FtSS8JV25SsGG6meLpx6dkWsm3arvvc3oe3w4mh9jN2vl/',
   ],
   knowsAbout: [
     'Full Stack Development',
-    'React Native Mobile Development',
+    'React Native Mobile App Development',
     'Node.js & Express API Architecture',
     'PostgreSQL & TimescaleDB',
     'Real-Time WebSocket & OHLCV Streaming',
@@ -165,5 +167,3 @@ try {
     </html>
   )
 }
-
-

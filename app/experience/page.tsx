@@ -8,10 +8,10 @@ import { Briefcase, Download, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 export const metadata: Metadata = {
-  title: 'Work Experience & Education | Shivam Pandey',
-  description: 'Professional experience of Shivam Pandey: Full Stack & Mobile Developer at RJ UrbanPower, Digilik, RankRiseUSA, EXL Services, and Admark Digital Media.',
+  title: 'Work Experience & Career Timeline | Shivam Pandey — Full Stack & Mobile App Developer',
+  description: 'Explore the professional engineering career of Shivam Pandey: Full Stack & Mobile App Developer at RJ UrbanPower, Digilik, RankRiseUSA, EXL Services, and Admark.',
   alternates: {
-    canonical: 'https://shivam-portfolio-pandey.netlify.app/experience',
+    canonical: 'https://shivam-pandey.com/experience',
   },
 };
 
@@ -31,11 +31,11 @@ export default function ExperiencePage() {
             Work <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">Experience</span> & Background
           </h1>
           <p className="max-w-2xl mx-auto text-base sm:text-lg text-muted-foreground">
-            Proven track record delivering scalable full-stack products, mobile apps to Play Store, and cloud architectures.
+            Proven track record delivering scalable full-stack products, Android apps to Google Play Store, and cloud architectures.
           </p>
 
           <div className="pt-3">
-            <Button asChild size="lg" className="gap-2 font-semibold">
+            <Button asChild size="lg" className="gap-2 font-semibold shadow-md">
               <a
                 href="/Shivam_Pandey_FullStack_Resume.pdf"
                 download="Shivam_Pandey_FullStack_Resume.pdf"

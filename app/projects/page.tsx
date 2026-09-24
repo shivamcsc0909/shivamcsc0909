@@ -4,14 +4,13 @@ import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import { ProjectsSection } from '@/components/projects-section';
 import { CTASection } from '@/components/cta-section';
-import { Globe, Smartphone, Sparkles, TrendingUp, ShieldCheck, ArrowUpRight } from 'lucide-react';
-import Link from 'next/link';
+import { Globe, Smartphone, Sparkles, TrendingUp } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '28+ Verified Production Projects | Shivam Pandey Portfolio',
-  description: 'Explore 28+ verified production applications built by Shivam Pandey, including Urban Power (Play Store App), RankRiseUSA, DigiQlik, Overseas Stars, TechForex, and WebGL 3D systems.',
+  title: '25+ Verified Production Projects | Shivam Pandey — Full Stack & Mobile App Developer',
+  description: 'Explore 25+ verified production applications built by Shivam Pandey, including Urban Power (Play Store App), RankRiseUSA, DigiQlik, Overseas Stars, TechForex, and WebGL 3D systems.',
   alternates: {
-    canonical: 'https://shivam-portfolio-pandey.netlify.app/projects',
+    canonical: 'https://shivam-pandey.com/projects',
   },
 };
 
@@ -26,13 +25,13 @@ export default function ProjectsPage() {
           <div className="text-center space-y-4 mb-12">
             <div className="inline-flex items-center gap-2 rounded-full border border-primary/40 bg-primary/10 px-4 py-1.5 text-xs font-semibold text-primary backdrop-blur-md">
               <Globe className="h-3.5 w-3.5" />
-              Verified Production Work • 28+ Deployments
+              Verified Production Work • 25+ Deployments
             </div>
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-foreground">
               Production <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">Project Gallery</span>
             </h1>
             <p className="max-w-3xl mx-auto text-base sm:text-lg text-muted-foreground leading-relaxed">
-              Explore the complete portfolio of Android mobile apps published on the Google Play Store, international marketing agency platforms, high-throughput trading backends, and award-grade WebGL 3D visualizers.
+              Explore the complete portfolio of Android mobile apps published on Google Play Store, international marketing agency platforms, high-throughput trading backends, and award-grade WebGL 3D visualizers.
             </p>
           </div>
 

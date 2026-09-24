@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://shivam-portfolio-pandey.netlify.app';
+  const baseUrl = 'https://shivam-pandey.com';
   const currentDate = new Date().toISOString();
 
   return [

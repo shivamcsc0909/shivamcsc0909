@@ -78,7 +78,7 @@ export function Header() {
                 Shivam Pandey
               </span>
               <span className="block text-[10px] text-muted-foreground font-medium">
-                Full Stack & Mobile Dev
+                Full Stack & Mobile App Dev
               </span>
             </div>
           </Link>

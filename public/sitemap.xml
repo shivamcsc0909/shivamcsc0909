@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shivam-portfolio-pandey.netlify.app/</loc>
+    <loc>https://shivam-pandey.com/</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://shivam-portfolio-pandey.netlify.app/about</loc>
+    <loc>https://shivam-pandey.com/about</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://shivam-portfolio-pandey.netlify.app/projects</loc>
+    <loc>https://shivam-pandey.com/projects</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
   <url>
-    <loc>https://shivam-portfolio-pandey.netlify.app/experience</loc>
+    <loc>https://shivam-pandey.com/experience</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://shivam-portfolio-pandey.netlify.app/skills</loc>
+    <loc>https://shivam-pandey.com/skills</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://shivam-portfolio-pandey.netlify.app/contact</loc>
+    <loc>https://shivam-pandey.com/contact</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>

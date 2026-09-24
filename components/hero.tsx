@@ -6,7 +6,7 @@ const HeroScene = dynamic(() => import('./hero-scene').then((m) => ({ default: m
 import { Button } from './ui/button';
 import { ContactModal } from './contact-modal';
 import { useState } from 'react';
-import { Download, MessageCircle, ArrowRight, Sparkles } from 'lucide-react';
+import { Download, MessageCircle, ArrowRight } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { WhatsAppIcon, InstagramIcon, FacebookIcon, GitHubIcon, LinkedInIcon } from './social-icons';
@@ -36,12 +36,12 @@ export function Hero() {
 
   return (
     <section className="relative min-h-[92vh] w-full overflow-hidden pt-28 pb-16 flex items-center justify-center">
-      {/* 3D Canvas Background - pointer-events-none to prevent blocking button clicks */}
+      {/* 3D Canvas Background - pointer-events-none so it doesn't intercept clicks */}
       <div className="absolute inset-0 z-0 pointer-events-none">
         <HeroScene />
       </div>
 
-      {/* High-readability gradient overlay */}
+      {/* High-readability subtle gradient overlay */}
       <div className="absolute inset-0 z-10 bg-gradient-to-b from-background/85 via-background/40 to-background pointer-events-none" />
 
       {/* Ambient background glow */}
@@ -64,7 +64,7 @@ export function Hero() {
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
                 </span>
-                Available for Full-Stack, Mobile & 3D Projects
+                Available for Full-Stack, Mobile App & 3D Projects
               </span>
             </motion.div>
 
@@ -77,7 +77,7 @@ export function Hero() {
                 </span>
               </h1>
               <p className="text-lg sm:text-xl md:text-2xl font-bold text-foreground/90">
-                Full Stack & Mobile Developer • UI/UX & 3D Specialist
+                Full Stack & Mobile App Developer • UI/UX & 3D Specialist
               </p>
             </motion.div>
 
@@ -187,7 +187,7 @@ export function Hero() {
             </motion.div>
           </div>
 
-          {/* Right Column: Clean Developer Avatar with Glowing Frame */}
+          {/* Right Column: Clean Developer Avatar Photo with glowing frame (No text overlay) */}
           <motion.div
             variants={item}
             className="lg:col-span-5 flex justify-center items-center relative"
@@ -196,31 +196,17 @@ export function Hero() {
               {/* Outer Animated Glow Ring */}
               <div className="absolute -inset-3 rounded-3xl bg-gradient-to-r from-primary via-accent to-purple-600 opacity-35 blur-xl animate-pulse" />
 
-              {/* Glass Frame Container */}
-              <div className="relative h-full w-full rounded-3xl border-2 border-primary/40 bg-card/90 p-2.5 shadow-2xl backdrop-blur-xl overflow-hidden group">
+              {/* Glass Frame Container - Pure clean photo without text */}
+              <div className="relative h-full w-full rounded-3xl border-2 border-primary/40 bg-card/90 p-2 shadow-2xl backdrop-blur-xl overflow-hidden group">
                 <div className="relative h-full w-full rounded-2xl overflow-hidden bg-muted/40">
                   <Image
                     src="/shivampandey.webp"
-                    alt="Shivam Pandey - Full Stack & Mobile Developer"
+                    alt="Shivam Pandey - Full Stack & Mobile App Developer"
                     fill
                     priority
                     sizes="(max-width: 768px) 256px, 320px"
                     className="object-cover object-center transition-transform duration-700 group-hover:scale-105"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-background/10 to-transparent" />
-                  
-                  {/* Overlay Name Tag */}
-                  <div className="absolute bottom-2.5 left-2.5 right-2.5 rounded-xl border border-border/80 bg-background/85 p-2.5 backdrop-blur-md">
-                    <div className="flex items-center justify-between">
-                      <div>
-                        <h4 className="text-xs sm:text-sm font-bold text-foreground">Shivam Pandey</h4>
-                        <p className="text-[10px] sm:text-xs text-primary font-medium">Full Stack & Mobile Lead</p>
-                      </div>
-                      <span className="rounded-full bg-green-500/20 px-2 py-0.5 text-[9px] sm:text-[10px] font-bold text-green-400">
-                        ⚡ 3+ Yrs Exp
-                      </span>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>

@@ -4,14 +4,13 @@ import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import { ContactForm } from '@/components/contact-form';
 import { WhatsAppIcon, InstagramIcon, FacebookIcon, GitHubIcon, LinkedInIcon } from '@/components/social-icons';
-import { Mail, Phone, MapPin, Sparkles, MessageCircle, Clock, ShieldCheck, CheckCircle2 } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { Mail, Phone, MapPin, Sparkles, CheckCircle2 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Contact & Hire Shivam Pandey | Full Stack Developer',
-  description: 'Get in touch with Shivam Pandey for Full Stack Web, Mobile App, 3D WebGL, and Cloud Architecture projects. Fast turnaround via Web3Forms, WhatsApp, Email, or Phone.',
+  title: 'Contact & Hire Shivam Pandey — Full Stack & Mobile App Developer',
+  description: 'Get in touch with Shivam Pandey for Full Stack Web, Mobile App (React Native), 3D WebGL, and Cloud Architecture projects. Fast turnaround via Web3Forms, WhatsApp, Email, or Phone.',
   alternates: {
-    canonical: 'https://shivam-portfolio-pandey.netlify.app/contact',
+    canonical: 'https://shivam-pandey.com/contact',
   },
 };
 

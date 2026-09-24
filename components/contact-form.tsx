@@ -189,14 +189,14 @@ export function ContactForm({ onSuccess, compact = false }: ContactFormProps) {
                   name="service"
                   value={formData.service}
                   onChange={handleInputChange}
-                  className="flex h-10 w-full rounded-md border border-border/80 bg-background/60 px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 text-foreground"
+                  className="flex h-11 w-full rounded-xl border border-border/80 bg-card px-4 py-2.5 text-sm font-medium text-foreground shadow-sm transition-all focus:border-primary focus:ring-2 focus:ring-primary/25 outline-none cursor-pointer"
                 >
-                  <option value="Full Stack Web App (Node/React/PostgreSQL)">Full Stack Web Application</option>
-                  <option value="Mobile App (React Native / Play Store)">Mobile App (React Native / Play Store)</option>
-                  <option value="3D WebGL & GSAP Animation Experience">3D WebGL, Three.js & Animation</option>
-                  <option value="Real-Time Trading / OHLCV Dashboard">Real-Time Data / Trading Dashboard</option>
-                  <option value="Cloud Deployment, AWS, Docker & CI/CD">Cloud Architecture & DevOps</option>
-                  <option value="UI/UX Specialist Redesign & Speed Opt">UI/UX Redesign & Core Web Vitals</option>
+                  <option value="Full Stack Web App (Node/React/PostgreSQL)" className="bg-card text-foreground">Full Stack Web Application</option>
+                  <option value="Mobile App (React Native / Play Store)" className="bg-card text-foreground">Mobile App (React Native / Android Play Store)</option>
+                  <option value="3D WebGL & GSAP Animation Experience" className="bg-card text-foreground">3D WebGL, Three.js & Animation</option>
+                  <option value="Real-Time Trading / OHLCV Dashboard" className="bg-card text-foreground">Real-Time Data / Trading Dashboard</option>
+                  <option value="Cloud Deployment, AWS, Docker & CI/CD" className="bg-card text-foreground">Cloud Architecture & DevOps</option>
+                  <option value="UI/UX Specialist Redesign & Speed Opt" className="bg-card text-foreground">UI/UX Redesign & Core Web Vitals</option>
                 </select>
               </div>
             </div>

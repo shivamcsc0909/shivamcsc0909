@@ -4,15 +4,15 @@ import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import { AboutSection } from '@/components/about-section';
 import { CTASection } from '@/components/cta-section';
-import { Download, Sparkles, Briefcase, GraduationCap, Award, CheckCircle } from 'lucide-react';
+import { Download, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'About Shivam Pandey | Full Stack, Mobile & 3D Engineering Specialist',
-  description: 'Learn about Shivam Pandey, Full Stack & Mobile Developer at RJ UrbanPower. Background in Node.js, React, TypeScript, PostgreSQL, TimescaleDB, React Native, 3D WebGL, and AWS cloud architecture.',
+  title: 'About Shivam Pandey — Full Stack & Mobile App Developer • UI/UX & 3D Specialist',
+  description: 'Learn about Shivam Pandey, Full Stack & Mobile App Developer at RJ UrbanPower. Background in Node.js, React, TypeScript, PostgreSQL, TimescaleDB, React Native, 3D WebGL, and AWS cloud architecture.',
   alternates: {
-    canonical: 'https://shivam-portfolio-pandey.netlify.app/about',
+    canonical: 'https://shivam-pandey.com/about',
   },
 };
 
@@ -32,11 +32,11 @@ export default function AboutPage() {
             About <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">Shivam Pandey</span>
           </h1>
           <p className="max-w-2xl mx-auto text-base sm:text-lg text-muted-foreground">
-            Full Stack & Mobile Developer • UI/UX Specialist • Zero-to-Production Cloud Architect
+            Full Stack & Mobile App Developer • UI/UX Specialist • Zero-to-Production Cloud Architect
           </p>
 
           <div className="flex flex-wrap justify-center gap-3 pt-4">
-            <Button asChild size="lg" className="gap-2 font-semibold">
+            <Button asChild size="lg" className="gap-2 font-semibold shadow-md">
               <a
                 href="/Shivam_Pandey_FullStack_Resume.pdf"
                 download="Shivam_Pandey_FullStack_Resume.pdf"

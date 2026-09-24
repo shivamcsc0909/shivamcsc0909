@@ -4,13 +4,13 @@ import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import { SkillsSection } from '@/components/skills-section';
 import { CTASection } from '@/components/cta-section';
-import { Sparkles, Code2, Cpu, Smartphone, Database, Cloud, CheckCircle, ShieldCheck } from 'lucide-react';
+import { Sparkles, Code2, Cpu, Smartphone, Cloud } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Technical Skills & Architecture Stack | Shivam Pandey',
+  title: 'Technical Skills & Architecture Stack | Shivam Pandey — Full Stack & Mobile App Developer',
   description: 'Explore technical skills and proficiency of Shivam Pandey: TypeScript, Node.js, React, React Native, PostgreSQL, TimescaleDB, Three.js, WebGL, Docker, AWS, and CI/CD.',
   alternates: {
-    canonical: 'https://shivam-portfolio-pandey.netlify.app/skills',
+    canonical: 'https://shivam-pandey.com/skills',
   },
 };
 
@@ -31,7 +31,7 @@ export default function SkillsPage() {
               Technical <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">Capabilities</span> & Arsenal
             </h1>
             <p className="max-w-3xl mx-auto text-base sm:text-lg text-muted-foreground leading-relaxed">
-              Detailed breakdown of full-stack engineering, real-time WebSocket pipelines, cross-platform Android mobile apps, 60fps Three.js WebGL rendering, and zero-downtime AWS deployments.
+              Detailed breakdown of full-stack engineering, real-time WebSocket pipelines, cross-platform Android mobile app releases, 60fps Three.js WebGL rendering, and zero-downtime AWS deployments.
             </p>
           </div>
 
