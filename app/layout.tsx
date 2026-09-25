@@ -133,6 +133,8 @@ const jsonLd = {
   ],
 };
 
+import { FloatingWhatsApp } from '@/components/floating-whatsapp'
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -162,6 +164,7 @@ try {
       </head>
       <body className="font-sans antialiased bg-background text-foreground selection:bg-primary/20 selection:text-primary min-h-screen">
         {children}
+        <FloatingWhatsApp />
         <Analytics />
       </body>
     </html>
