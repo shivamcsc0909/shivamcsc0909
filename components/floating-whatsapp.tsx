@@ -18,19 +18,19 @@ export function FloatingWhatsApp() {
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Direct WhatsApp Chat with Shivam Pandey"
-        className="relative flex items-center justify-center w-12 h-12 sm:w-14 sm:h-14 rounded-full bg-emerald-500 hover:bg-emerald-600 shadow-xl shadow-emerald-500/30 transition-all duration-300 transform hover:scale-110 active:scale-95"
+        className="relative flex items-center justify-center w-12 h-12 sm:w-14 sm:h-14 rounded-full bg-[#25D366] hover:bg-[#20bd5a] text-white shadow-xl shadow-[#25D366]/40 transition-all duration-300 transform hover:scale-110 active:scale-95 border border-white/20"
         initial={{ scale: 0, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
         transition={{ type: 'spring', stiffness: 260, damping: 20 }}
       >
         {/* Pulsing ring */}
-        <span className="absolute -inset-1 rounded-full bg-emerald-500/40 animate-ping pointer-events-none" />
+        <span className="absolute -inset-1 rounded-full bg-[#25D366]/40 animate-ping pointer-events-none" />
 
         {/* Online Status Dot */}
-        <span className="absolute top-0 right-0 w-3.5 h-3.5 bg-green-400 border-2 border-background rounded-full shadow-sm" />
+        <span className="absolute top-0 right-0 w-3.5 h-3.5 bg-green-300 border-2 border-background rounded-full shadow-sm" />
 
         {/* Custom WhatsApp Icon Image */}
-        <WhatsAppIcon className="w-7 h-7 sm:w-8 sm:h-8" alt="WhatsApp" />
+        <WhatsAppIcon className="w-6 h-6 sm:w-7 sm:h-7 text-white fill-white" alt="WhatsApp" />
       </motion.a>
     </aside>
   );
