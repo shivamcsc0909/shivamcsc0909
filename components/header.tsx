@@ -171,7 +171,7 @@ export function Header() {
           initial={{ opacity: 0, height: 0 }}
           animate={{ opacity: 1, height: 'auto' }}
           exit={{ opacity: 0, height: 0 }}
-          className="lg:hidden border-t border-border/80 bg-background/95 px-6 py-5 backdrop-blur-2xl space-y-4"
+          className="lg:hidden border-t border-border/80 bg-background/95 px-4 sm:px-6 py-4 backdrop-blur-2xl space-y-3 max-h-[85vh] overflow-y-auto"
         >
           <div className="grid grid-cols-2 gap-2">
             {navItems.map((item) => {
@@ -181,10 +181,10 @@ export function Header() {
                   key={item.href}
                   href={item.href}
                   onClick={() => setIsMobileMenuOpen(false)}
-                  className={`px-4 py-2.5 rounded-xl text-sm font-medium transition-colors ${
+                  className={`px-3.5 py-2.5 rounded-xl text-xs sm:text-sm font-medium transition-colors text-center ${
                     isActive
-                      ? 'bg-primary text-primary-foreground font-semibold'
-                      : 'bg-card/70 text-muted-foreground hover:text-foreground'
+                      ? 'bg-primary text-primary-foreground font-semibold shadow-sm'
+                      : 'bg-card/70 text-muted-foreground hover:text-foreground border border-border/50'
                   }`}
                 >
                   {item.label}
@@ -194,8 +194,8 @@ export function Header() {
           </div>
 
           {/* Mobile Socials & Resume */}
-          <div className="pt-3 border-t border-border/60 flex items-center justify-between">
-            <div className="flex items-center gap-2">
+          <div className="pt-3 border-t border-border/60 flex flex-col sm:flex-row items-center justify-between gap-3">
+            <div className="flex items-center justify-center gap-2 flex-wrap">
               {socialLinks.map((link) => {
                 const Icon = link.icon;
                 return (
@@ -204,8 +204,9 @@ export function Header() {
                     href={link.href}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className={`p-2 rounded-lg bg-card ${link.color}`}
+                    className={`p-2 rounded-xl bg-card border border-border/60 ${link.color} transition-transform hover:scale-105`}
                     aria-label={link.label}
+                    title={link.label}
                   >
                     <Icon className="h-4 w-4" />
                   </a>
@@ -213,7 +214,7 @@ export function Header() {
               })}
             </div>
 
-            <Button asChild size="sm" className="gap-1.5 text-xs font-semibold">
+            <Button asChild size="sm" className="w-full sm:w-auto gap-1.5 text-xs font-semibold rounded-xl">
               <a
                 href="/Shivam_Pandey_FullStack_Resume.pdf"
                 download="Shivam_Pandey_FullStack_Resume.pdf"
@@ -221,7 +222,7 @@ export function Header() {
                 rel="noopener noreferrer"
               >
                 <Download className="h-3.5 w-3.5" />
-                Download CV
+                Download CV (PDF)
               </a>
             </Button>
           </div>

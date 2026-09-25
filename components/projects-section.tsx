@@ -93,9 +93,9 @@ export function ProjectsSection() {
   };
 
   return (
-    <section id="projects" className="relative w-full bg-muted/15 py-24 px-4 sm:px-6 lg:px-8">
+    <section id="projects" className="relative w-full bg-muted/15 py-16 sm:py-24 px-4 sm:px-6 lg:px-8">
       {/* Background ambient lighting */}
-      <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-primary/5 blur-[150px] pointer-events-none rounded-full" />
+      <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[350px] sm:w-[800px] h-[300px] sm:h-[400px] bg-primary/5 blur-[100px] sm:blur-[150px] pointer-events-none rounded-full" />
 
       <div className="mx-auto max-w-7xl relative z-10">
         {/* Section Header */}
@@ -104,22 +104,22 @@ export function ProjectsSection() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
           viewport={{ once: true }}
-          className="mb-14 text-center"
+          className="mb-10 sm:mb-14 text-center"
         >
-          <div className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-4 py-1.5 text-xs font-semibold text-primary mb-3 shadow-sm backdrop-blur-md">
+          <div className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-3.5 py-1.5 text-xs font-semibold text-primary mb-3 shadow-sm backdrop-blur-md">
             <Globe className="h-3.5 w-3.5" />
             28+ Production-Grade Systems & Live Work
           </div>
-          <h2 className="text-balance text-3xl font-extrabold text-foreground sm:text-4xl md:text-5xl">
+          <h2 className="text-balance text-2xl sm:text-4xl md:text-5xl font-extrabold text-foreground">
             Featured <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">Projects</span> & Live Apps
           </h2>
-          <p className="mt-4 max-w-2xl mx-auto text-balance text-sm sm:text-base text-muted-foreground leading-relaxed">
+          <p className="mt-3 sm:mt-4 max-w-2xl mx-auto text-balance text-xs sm:text-base text-muted-foreground leading-relaxed">
             From the <span className="font-semibold text-foreground">Urban Power Play Store App</span>, US digital agency <span className="font-semibold text-foreground">RankRiseUSA</span>, and <span className="font-semibold text-foreground">DigiQlik</span>, to sub-second <span className="font-semibold text-foreground">TechForex WebSocket trading</span> and WebGL 3D engines.
           </p>
         </motion.div>
 
         {/* Filter & Search Bar with Animated Badges */}
-        <div className="mb-12 space-y-6">
+        <div className="mb-8 sm:mb-12 space-y-4 sm:space-y-6">
           {/* Search Box */}
           <div className="mx-auto max-w-lg relative">
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
@@ -127,12 +127,12 @@ export function ProjectsSection() {
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder="Search projects by tech, title, or keywords..."
-              className="pl-11 pr-16 h-12 bg-background/90 border-border/80 rounded-2xl focus:border-primary backdrop-blur-xl shadow-lg text-sm"
+              className="pl-11 pr-16 h-11 sm:h-12 bg-background/90 border-border/80 rounded-2xl focus:border-primary backdrop-blur-xl shadow-lg text-xs sm:text-sm"
             />
             {searchQuery && (
               <button
                 onClick={() => setSearchQuery('')}
-                className="absolute right-4 top-1/2 -translate-y-1/2 text-xs font-medium text-muted-foreground hover:text-foreground bg-muted/60 px-2 py-1 rounded-md"
+                className="absolute right-3.5 top-1/2 -translate-y-1/2 text-xs font-medium text-muted-foreground hover:text-foreground bg-muted/60 px-2 py-1 rounded-md"
               >
                 Clear
               </button>
@@ -140,7 +140,7 @@ export function ProjectsSection() {
           </div>
 
           {/* Category Tabs */}
-          <div className="flex flex-wrap justify-center gap-2">
+          <div className="flex flex-wrap justify-center gap-1.5 sm:gap-2">
             {categories.map((category) => {
               const isActive = selectedCategory === category.id;
               const count =
@@ -155,7 +155,7 @@ export function ProjectsSection() {
                     setSelectedCategory(category.id);
                     setSelectedTech(null);
                   }}
-                  className={`relative flex items-center gap-2 rounded-xl px-4 py-2 text-xs font-medium transition-all duration-300 ${
+                  className={`relative flex items-center gap-1.5 rounded-xl px-3 sm:px-4 py-1.5 sm:py-2 text-[11px] sm:text-xs font-medium transition-all duration-300 ${
                     isActive
                       ? 'bg-primary text-primary-foreground shadow-lg shadow-primary/25 font-semibold scale-105'
                       : 'bg-card/70 border border-border/70 text-muted-foreground hover:border-primary/40 hover:text-foreground hover:bg-card'
@@ -163,7 +163,7 @@ export function ProjectsSection() {
                 >
                   <span>{category.label}</span>
                   <span
-                    className={`rounded-full px-1.5 py-0.2 text-[10px] font-bold ${
+                    className={`rounded-full px-1.5 py-0.2 text-[9px] sm:text-[10px] font-bold ${
                       isActive
                         ? 'bg-primary-foreground/20 text-primary-foreground'
                         : 'bg-muted text-muted-foreground'
@@ -177,9 +177,9 @@ export function ProjectsSection() {
           </div>
 
           {/* Popular Tech Quick Filters */}
-          <div className="flex flex-wrap items-center justify-center gap-2 pt-1 text-xs">
-            <span className="text-muted-foreground font-medium mr-1 flex items-center gap-1">
-              <Zap className="h-3 w-3 text-accent" /> Quick Filter:
+          <div className="flex flex-wrap items-center justify-center gap-1.5 sm:gap-2 pt-1 text-xs">
+            <span className="text-muted-foreground font-medium mr-1 flex items-center gap-1 text-[11px] sm:text-xs">
+              <Zap className="h-3 w-3 text-accent" /> Filter:
             </span>
             {popularTechs.map((tech) => {
               const isSelected = selectedTech === tech;
@@ -187,7 +187,7 @@ export function ProjectsSection() {
                 <button
                   key={tech}
                   onClick={() => setSelectedTech(isSelected ? null : tech)}
-                  className={`rounded-lg px-2.5 py-1 text-[11px] transition-all ${
+                  className={`rounded-lg px-2 sm:px-2.5 py-1 text-[10px] sm:text-[11px] transition-all ${
                     isSelected
                       ? 'bg-accent text-accent-foreground font-bold shadow-md shadow-accent/20'
                       : 'bg-muted/50 text-muted-foreground hover:bg-muted hover:text-foreground border border-border/50'
@@ -200,7 +200,7 @@ export function ProjectsSection() {
             {selectedTech && (
               <button
                 onClick={() => setSelectedTech(null)}
-                className="text-[11px] text-red-400 underline hover:text-red-300 ml-1"
+                className="text-[10px] sm:text-[11px] text-red-400 underline hover:text-red-300 ml-1"
               >
                 Reset
               </button>
@@ -213,7 +213,7 @@ export function ProjectsSection() {
           variants={containerVariants}
           initial="hidden"
           animate="visible"
-          className="grid grid-cols-1 gap-7 sm:grid-cols-2 lg:grid-cols-3 items-start"
+          className="grid grid-cols-1 gap-5 sm:gap-7 sm:grid-cols-2 lg:grid-cols-3 items-start"
         >
           <AnimatePresence mode="popLayout">
             {filteredProjects.map((project) => {

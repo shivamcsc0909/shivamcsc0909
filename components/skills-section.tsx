@@ -74,10 +74,10 @@ export function SkillsSection() {
   const activeCategory = skillCategories[activeCategoryIndex];
 
   return (
-    <section id="skills" className="relative w-full bg-muted/20 py-24 px-4 sm:px-6 lg:px-8 border-y border-border/50 overflow-hidden">
+    <section id="skills" className="relative w-full bg-muted/20 py-16 sm:py-24 px-4 sm:px-6 lg:px-8 border-y border-border/50 overflow-hidden">
       {/* Dynamic Background Ambient Aura */}
-      <div className="absolute top-1/3 left-1/4 w-[600px] h-[600px] bg-primary/10 rounded-full blur-[140px] pointer-events-none" />
-      <div className="absolute bottom-10 right-1/4 w-[500px] h-[500px] bg-accent/10 rounded-full blur-[130px] pointer-events-none" />
+      <div className="absolute top-1/3 left-1/4 w-[350px] sm:w-[600px] h-[350px] sm:h-[600px] bg-primary/10 rounded-full blur-[100px] sm:blur-[140px] pointer-events-none" />
+      <div className="absolute bottom-10 right-1/4 w-[300px] sm:w-[500px] h-[300px] sm:h-[500px] bg-accent/10 rounded-full blur-[90px] sm:blur-[130px] pointer-events-none" />
 
       <div className="mx-auto max-w-7xl relative z-10">
         {/* Section Header */}
@@ -86,22 +86,22 @@ export function SkillsSection() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
           viewport={{ once: true }}
-          className="mb-14 text-center"
+          className="mb-10 sm:mb-14 text-center"
         >
-          <div className="inline-flex items-center gap-2 rounded-full border border-accent/40 bg-accent/10 px-4 py-1.5 text-xs font-semibold text-accent mb-3 shadow-sm backdrop-blur-md">
+          <div className="inline-flex items-center gap-2 rounded-full border border-accent/40 bg-accent/10 px-3.5 py-1.5 text-xs font-semibold text-accent mb-3 shadow-sm backdrop-blur-md">
             <Sparkles className="h-3.5 w-3.5" />
             Engineering Competence & Tech Ecosystem
           </div>
-          <h2 className="text-balance text-3xl font-extrabold text-foreground sm:text-4xl md:text-5xl">
+          <h2 className="text-balance text-2xl sm:text-4xl md:text-5xl font-extrabold text-foreground">
             Technical <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">Arsenal</span> & Mastery
           </h2>
-          <p className="mt-4 max-w-2xl mx-auto text-balance text-sm sm:text-base text-muted-foreground leading-relaxed">
+          <p className="mt-3 sm:mt-4 max-w-2xl mx-auto text-balance text-xs sm:text-base text-muted-foreground leading-relaxed">
             Battle-tested across production applications — spanning <span className="font-semibold text-foreground">React Native Play Store apps</span>, <span className="font-semibold text-foreground">Node.js microservices</span>, <span className="font-semibold text-foreground">Three.js WebGL</span>, and <span className="font-semibold text-foreground">AWS Cloud CI/CD</span>.
           </p>
         </motion.div>
 
         {/* Category Domain Selector Tabs */}
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3 mb-10">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2 sm:gap-3 mb-8 sm:mb-10">
           {skillCategories.map((category, idx) => {
             const Icon = categoryIcons[category.category] || Terminal;
             const isActive = activeCategoryIndex === idx;
@@ -111,25 +111,25 @@ export function SkillsSection() {
                 key={idx}
                 type="button"
                 onClick={() => setActiveCategoryIndex(idx)}
-                className={`relative flex flex-col items-center justify-center rounded-2xl p-4 text-center transition-all duration-300 border ${
+                className={`relative flex flex-col items-center justify-center rounded-2xl p-2.5 sm:p-4 text-center transition-all duration-300 border ${
                   isActive
-                    ? 'border-primary bg-card text-foreground shadow-xl shadow-primary/10 scale-105 ring-2 ring-primary/30'
+                    ? 'border-primary bg-card text-foreground shadow-xl shadow-primary/10 scale-[1.02] sm:scale-105 ring-2 ring-primary/30'
                     : 'border-border/70 bg-card/60 text-muted-foreground hover:border-primary/40 hover:bg-card hover:text-foreground'
                 }`}
               >
                 <div
-                  className={`flex h-10 w-10 items-center justify-center rounded-xl mb-2 transition-transform duration-300 ${
+                  className={`flex h-8 w-8 sm:h-10 sm:w-10 items-center justify-center rounded-xl mb-1.5 sm:mb-2 transition-transform duration-300 ${
                     isActive
-                      ? 'bg-primary text-primary-foreground scale-110 shadow-md shadow-primary/25'
+                      ? 'bg-primary text-primary-foreground scale-105 sm:scale-110 shadow-md shadow-primary/25'
                       : 'bg-muted/70 text-muted-foreground'
                   }`}
                 >
-                  <Icon className="h-5 w-5" />
+                  <Icon className="h-4 w-4 sm:h-5 sm:w-5" />
                 </div>
-                <span className="text-xs font-bold leading-tight line-clamp-2">
+                <span className="text-[11px] sm:text-xs font-bold leading-tight line-clamp-2">
                   {category.category.replace('&', '\n&')}
                 </span>
-                <span className="text-[10px] font-mono text-primary font-semibold mt-1">
+                <span className="text-[9px] sm:text-[10px] font-mono text-primary font-semibold mt-1">
                   {category.skills.length} Skills
                 </span>
               </button>
@@ -145,16 +145,16 @@ export function SkillsSection() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -15 }}
             transition={{ duration: 0.35 }}
-            className="rounded-3xl border border-border/80 bg-card/80 p-6 sm:p-9 backdrop-blur-2xl shadow-2xl space-y-8"
+            className="rounded-3xl border border-border/80 bg-card/80 p-4 sm:p-9 backdrop-blur-2xl shadow-2xl space-y-6 sm:space-y-8"
           >
             {/* Domain Overview Header */}
-            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-border/80 pb-6">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 sm:gap-4 border-b border-border/80 pb-4 sm:pb-6">
               <div className="space-y-1">
                 <div className="flex items-center gap-2">
                   <span className="rounded-md bg-primary/15 px-2 py-0.5 text-xs font-mono font-bold text-primary">
                     Domain 0{activeCategoryIndex + 1}
                   </span>
-                  <h3 className="text-2xl font-extrabold text-foreground">
+                  <h3 className="text-lg sm:text-2xl font-extrabold text-foreground">
                     {activeCategory.category}
                   </h3>
                 </div>
@@ -163,8 +163,8 @@ export function SkillsSection() {
                 </p>
               </div>
 
-              <div className="flex items-center gap-3">
-                <span className="inline-flex items-center gap-1.5 rounded-full bg-green-500/10 px-3 py-1 text-xs font-semibold text-green-400 border border-green-500/20">
+              <div className="flex items-center gap-2 sm:gap-3 flex-wrap">
+                <span className="inline-flex items-center gap-1.5 rounded-full bg-green-500/10 px-2.5 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold text-green-400 border border-green-500/20">
                   <span className="h-2 w-2 rounded-full bg-green-400 animate-pulse" />
                   Production Ready
                 </span>
@@ -178,7 +178,7 @@ export function SkillsSection() {
             </div>
 
             {/* Skills Grid */}
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5 sm:gap-5">
               {activeCategory.skills.map((skill, skillIdx) => {
                 const context = skillContexts[skill.name] || 'Production Application';
 
@@ -189,33 +189,33 @@ export function SkillsSection() {
                     animate={{ opacity: 1, scale: 1 }}
                     transition={{ duration: 0.3, delay: skillIdx * 0.05 }}
                     whileHover={{ y: -3 }}
-                    className="group relative rounded-2xl border border-border/70 bg-background/60 p-5 backdrop-blur-md transition-all duration-300 hover:border-primary/50 hover:bg-card hover:shadow-lg"
+                    className="group relative rounded-2xl border border-border/70 bg-background/60 p-4 sm:p-5 backdrop-blur-md transition-all duration-300 hover:border-primary/50 hover:bg-card hover:shadow-lg"
                   >
                     {/* Top Row: Name & Mastery Badge */}
                     <div className="flex items-center justify-between gap-2 mb-2">
-                      <span className="font-bold text-sm text-foreground flex items-center gap-2 group-hover:text-primary transition-colors">
-                        <CheckCircle2 className="h-4 w-4 text-primary flex-shrink-0" />
+                      <span className="font-bold text-xs sm:text-sm text-foreground flex items-center gap-1.5 sm:gap-2 group-hover:text-primary transition-colors">
+                        <CheckCircle2 className="h-3.5 w-3.5 sm:h-4 sm:w-4 text-primary flex-shrink-0" />
                         {skill.name}
                       </span>
                       {skill.badge && (
-                        <span className="rounded-full bg-primary/15 px-2 py-0.5 text-[10px] font-bold text-primary border border-primary/20">
+                        <span className="rounded-full bg-primary/15 px-2 py-0.5 text-[9px] sm:text-[10px] font-bold text-primary border border-primary/20 whitespace-nowrap">
                           {skill.badge}
                         </span>
                       )}
                     </div>
 
                     {/* Real-World Usage Context */}
-                    <p className="text-[11px] text-muted-foreground mb-3 flex items-center gap-1">
-                      <span className="text-accent font-semibold">Applied:</span> {context}
+                    <p className="text-[10px] sm:text-[11px] text-muted-foreground mb-3 flex items-center gap-1">
+                      <span className="text-accent font-semibold">Applied:</span> <span className="truncate">{context}</span>
                     </p>
 
                     {/* Progress Bar & Percentage */}
                     <div className="space-y-1.5">
-                      <div className="flex items-center justify-between text-[11px] font-mono">
+                      <div className="flex items-center justify-between text-[10px] sm:text-[11px] font-mono">
                         <span className="text-muted-foreground">Proficiency</span>
                         <span className="font-bold text-foreground">{skill.level}%</span>
                       </div>
-                      <div className="h-2 w-full overflow-hidden rounded-full bg-muted/80">
+                      <div className="h-1.5 sm:h-2 w-full overflow-hidden rounded-full bg-muted/80">
                         <motion.div
                           initial={{ width: 0 }}
                           animate={{ width: `${skill.level}%` }}
@@ -237,12 +237,12 @@ export function SkillsSection() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
-          className="mt-14 rounded-3xl border border-primary/30 bg-gradient-to-r from-primary/10 via-accent/10 to-primary/10 p-7 sm:p-9 text-center backdrop-blur-xl shadow-xl"
+          className="mt-10 sm:mt-14 rounded-3xl border border-primary/30 bg-gradient-to-r from-primary/10 via-accent/10 to-primary/10 p-5 sm:p-9 text-center backdrop-blur-xl shadow-xl"
         >
-          <div className="mx-auto max-w-4xl space-y-4">
+          <div className="mx-auto max-w-4xl space-y-3 sm:space-y-4">
             <div className="flex items-center justify-center gap-2">
-              <Award className="h-6 w-6 text-primary" />
-              <h3 className="text-xl sm:text-2xl font-extrabold text-foreground">
+              <Award className="h-5 w-5 sm:h-6 sm:w-6 text-primary flex-shrink-0" />
+              <h3 className="text-base sm:text-2xl font-extrabold text-foreground">
                 Verified Certifications & Engineering Standards
               </h3>
             </div>

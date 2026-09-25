@@ -26,33 +26,33 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
           />
 
           {/* Modal Container */}
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 overflow-y-auto">
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-6 overflow-y-auto">
             <motion.div
               initial={{ opacity: 0, scale: 0.95, y: 20 }}
               animate={{ opacity: 1, scale: 1, y: 0 }}
               exit={{ opacity: 0, scale: 0.95, y: 20 }}
               transition={{ duration: 0.3 }}
-              className="relative w-full max-w-xl rounded-2xl border border-primary/20 bg-background/95 p-6 sm:p-8 shadow-2xl backdrop-blur-2xl my-auto"
+              className="relative w-full max-w-xl max-h-[92vh] overflow-y-auto rounded-3xl border border-primary/20 bg-background/95 p-5 sm:p-8 shadow-2xl backdrop-blur-2xl my-auto"
             >
               {/* Close Button */}
               <button
                 onClick={onClose}
-                className="absolute right-4 top-4 rounded-full p-2 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+                className="absolute right-3.5 top-3.5 sm:right-4 sm:top-4 rounded-full p-2 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
                 aria-label="Close modal"
               >
                 <X className="h-5 w-5" />
               </button>
 
               {/* Header */}
-              <div className="mb-6 pr-8">
+              <div className="mb-5 sm:mb-6 pr-6 sm:pr-8">
                 <div className="inline-flex items-center gap-1.5 rounded-full border border-primary/30 bg-primary/10 px-3 py-1 text-xs font-semibold text-primary mb-2">
                   <Sparkles className="h-3.5 w-3.5" />
                   Direct Developer Communication
                 </div>
-                <h2 className="text-2xl font-bold tracking-tight text-foreground sm:text-3xl">
+                <h2 className="text-xl sm:text-3xl font-bold tracking-tight text-foreground">
                   Let&apos;s Build Your Next Vision
                 </h2>
-                <p className="mt-1.5 text-sm text-muted-foreground">
+                <p className="mt-1 text-xs sm:text-sm text-muted-foreground">
                   Powered by Web3Forms — send your requirements directly to Shivam Pandey.
                 </p>
               </div>
@@ -61,16 +61,16 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
               <ContactForm compact onSuccess={onClose} />
 
               {/* Direct Quick Links */}
-              <div className="mt-6 border-t border-border/80 pt-4">
-                <p className="mb-3 text-xs font-medium text-muted-foreground text-center">
+              <div className="mt-5 sm:mt-6 border-t border-border/80 pt-4">
+                <p className="mb-2.5 sm:mb-3 text-[11px] sm:text-xs font-medium text-muted-foreground text-center">
                   Prefer instant messenger or direct call?
                 </p>
-                <div className="grid grid-cols-3 gap-2">
+                <div className="grid grid-cols-3 gap-1.5 sm:gap-2">
                   <Button
                     type="button"
                     variant="outline"
                     size="sm"
-                    className="gap-1.5 border-green-500/30 text-green-500 hover:bg-green-500/10 hover:text-green-400"
+                    className="gap-1 sm:gap-1.5 border-green-500/30 text-green-500 hover:bg-green-500/10 hover:text-green-400 text-xs px-2"
                     asChild
                   >
                     <a
@@ -78,8 +78,8 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      <MessageCircle className="h-4 w-4" />
-                      <span className="hidden xs:inline">WhatsApp</span>
+                      <MessageCircle className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
+                      <span className="truncate">WhatsApp</span>
                     </a>
                   </Button>
 
@@ -87,12 +87,12 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
                     type="button"
                     variant="outline"
                     size="sm"
-                    className="gap-1.5 border-blue-500/30 text-blue-500 hover:bg-blue-500/10 hover:text-blue-400"
+                    className="gap-1 sm:gap-1.5 border-blue-500/30 text-blue-500 hover:bg-blue-500/10 hover:text-blue-400 text-xs px-2"
                     asChild
                   >
                     <a href="tel:+919554584978">
-                      <Phone className="h-4 w-4" />
-                      <span className="hidden xs:inline">Direct Call</span>
+                      <Phone className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
+                      <span className="truncate">Call</span>
                     </a>
                   </Button>
 
@@ -100,12 +100,12 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
                     type="button"
                     variant="outline"
                     size="sm"
-                    className="gap-1.5 border-red-500/30 text-red-500 hover:bg-red-500/10 hover:text-red-400"
+                    className="gap-1 sm:gap-1.5 border-red-500/30 text-red-500 hover:bg-red-500/10 hover:text-red-400 text-xs px-2"
                     asChild
                   >
                     <a href="mailto:shivampandeyyuyu@gmail.com">
-                      <Mail className="h-4 w-4" />
-                      <span className="hidden xs:inline">Email</span>
+                      <Mail className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
+                      <span className="truncate">Email</span>
                     </a>
                   </Button>
                 </div>

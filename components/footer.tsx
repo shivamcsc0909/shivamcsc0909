@@ -19,29 +19,29 @@ export function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="relative w-full border-t border-border/80 bg-card/60 backdrop-blur-xl py-16 px-4 sm:px-6 lg:px-8">
+    <footer className="relative w-full border-t border-border/80 bg-card/60 backdrop-blur-xl py-12 sm:py-16 px-4 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-7xl">
         {/* Content Grid */}
-        <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid grid-cols-1 gap-8 sm:gap-10 sm:grid-cols-2 lg:grid-cols-4">
           {/* Brand & Bio */}
           <div className="space-y-3">
             <div className="flex items-center gap-2">
-              <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-tr from-primary to-accent text-primary-foreground font-bold text-xs shadow-md shadow-primary/20">
+              <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-gradient-to-tr from-primary to-accent text-primary-foreground font-bold text-xs shadow-md shadow-primary/20">
                 SP
               </div>
-              <h3 className="text-lg font-bold text-foreground">Shivam Pandey</h3>
+              <h3 className="text-base sm:text-lg font-bold text-foreground">Shivam Pandey</h3>
             </div>
             <p className="text-xs sm:text-sm text-muted-foreground leading-relaxed">
-              Full Stack & Mobile Developer • UI/UX & 3D Specialist. Designing and deploying resilient web, mobile & cloud software from zero to production.
+              Full Stack & Mobile App Developer • UI/UX & 3D Specialist. Designing and deploying resilient web, mobile & cloud software from zero to production.
             </p>
           </div>
 
           {/* Quick Navigation - All subpages */}
           <div>
-            <h4 className="font-bold text-foreground text-sm uppercase tracking-wider mb-4">
+            <h4 className="font-bold text-foreground text-xs sm:text-sm uppercase tracking-wider mb-3 sm:mb-4">
               Explore Pages
             </h4>
-            <ul className="space-y-2.5 text-xs sm:text-sm">
+            <ul className="space-y-2 text-xs sm:text-sm">
               <li>
                 <Link
                   href="/"
@@ -95,7 +95,7 @@ export function Footer() {
 
           {/* Direct Communication */}
           <div>
-            <h4 className="font-bold text-foreground text-sm uppercase tracking-wider mb-4">
+            <h4 className="font-bold text-foreground text-xs sm:text-sm uppercase tracking-wider mb-3 sm:mb-4">
               Direct Contact
             </h4>
             <ul className="space-y-2.5 text-xs sm:text-sm">
@@ -103,7 +103,7 @@ export function Footer() {
                 <Mail className="h-4 w-4 text-red-400 flex-shrink-0" />
                 <a
                   href="mailto:shivampandeyyuyu@gmail.com"
-                  className="transition-colors hover:text-foreground truncate"
+                  className="transition-colors hover:text-foreground break-all"
                 >
                   shivampandeyyuyu@gmail.com
                 </a>
@@ -137,10 +137,10 @@ export function Footer() {
 
           {/* Social Profiles & Resume */}
           <div>
-            <h4 className="font-bold text-foreground text-sm uppercase tracking-wider mb-4">
+            <h4 className="font-bold text-foreground text-xs sm:text-sm uppercase tracking-wider mb-3 sm:mb-4">
               Connect & Verify
             </h4>
-            <div className="flex flex-wrap gap-2.5 mb-4">
+            <div className="flex flex-wrap gap-2 mb-3.5">
               <a
                 href="https://wa.me/919554584978"
                 target="_blank"
@@ -175,7 +175,7 @@ export function Footer() {
                 href="https://www.linkedin.com/in/shivampandey-tech/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex h-9 w-9 items-center justify-center rounded-xl border border-blue-500/30 bg-blue-500/10 text-blue-500 transition-all hover:scale-110 hover:bg-blue-500 hover:text-white"
+                className="inline-flex h-9 w-9 items-center justify-center rounded-xl border border-blue-500/30 bg-blue-500/10 text-blue-500 transition-all hover:scale-110 hover:bg-blue-600 hover:text-white"
                 aria-label="LinkedIn"
                 title="LinkedIn Profile"
               >
@@ -215,14 +215,14 @@ export function Footer() {
         </div>
 
         {/* Divider */}
-        <div className="my-8 border-t border-border/60" />
+        <div className="my-6 sm:my-8 border-t border-border/60" />
 
         {/* Bottom Section */}
-        <div className="flex flex-col items-center justify-between gap-4 sm:flex-row text-xs text-muted-foreground">
+        <div className="flex flex-col items-center justify-between gap-3 sm:gap-4 sm:flex-row text-xs text-muted-foreground text-center sm:text-left">
           <p>
             © {currentYear} Shivam Pandey. Built with Next.js, Three.js, Tailwind CSS & Web3Forms.
           </p>
-          <p className="flex items-center gap-1">
+          <p className="flex items-center justify-center gap-1">
             Engineered with <Heart className="h-3 w-3 text-red-500 fill-red-500 inline" /> for scalable performance & 60fps animations.
           </p>
         </div>

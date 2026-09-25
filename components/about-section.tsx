@@ -82,7 +82,7 @@ const itemVariants = {
 
 export function AboutSection() {
   return (
-    <section id="about" className="relative w-full py-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
+    <section id="about" className="relative w-full py-16 sm:py-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
       {/* Background Subtle Grid Pattern */}
       <div className="absolute inset-0 -z-10 bg-[radial-gradient(#7c5cff15_1px,transparent_1px)] [background-size:24px_24px] opacity-40" />
 
@@ -93,31 +93,31 @@ export function AboutSection() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
           viewport={{ once: true }}
-          className="mb-16 text-center"
+          className="mb-12 sm:mb-16 text-center"
         >
-          <div className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-4 py-1 text-xs font-semibold text-primary mb-3">
+          <div className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-3.5 py-1 text-xs font-semibold text-primary mb-3">
             <Award className="h-3.5 w-3.5" />
-            Engineering Philosophy & Proven Track Record
+            Engineering Philosophy & Track Record
           </div>
-          <h2 className="text-balance text-3xl font-extrabold text-foreground sm:text-4xl md:text-5xl">
+          <h2 className="text-balance text-2xl sm:text-4xl md:text-5xl font-extrabold text-foreground">
             From Zero to Production, <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">End-to-End</span>
           </h2>
-          <p className="mt-4 max-w-3xl mx-auto text-balance text-base sm:text-lg text-muted-foreground">
-            I bridge the gap between creative visual artistry and mission-critical system engineering.
+          <p className="mt-3 sm:mt-4 max-w-3xl mx-auto text-balance text-sm sm:text-base text-muted-foreground leading-relaxed">
+            Bridging creative visual artistry and mission-critical system engineering.
             Whether launching consumer mobile apps or high-frequency real-time financial dashboards, I own the entire lifecycle.
           </p>
         </motion.div>
 
         {/* Narrative & Metrics */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start mb-20">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 sm:gap-10 items-start mb-16 sm:mb-20">
           <motion.div
             variants={containerVariants}
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
-            className="lg:col-span-7 space-y-5 text-muted-foreground leading-relaxed text-base"
+            className="lg:col-span-7 space-y-4 sm:space-y-5 text-muted-foreground leading-relaxed text-sm sm:text-base"
           >
-            <motion.p variants={itemVariants} className="text-lg font-medium text-foreground">
+            <motion.p variants={itemVariants} className="text-base sm:text-lg font-medium text-foreground">
               Hello! I&apos;m <span className="text-primary font-bold">Shivam Pandey</span>, a Full Stack & Mobile Developer, Creative Technologist, and UI/UX Specialist based in Delhi NCR.
             </motion.p>
 
@@ -129,7 +129,7 @@ export function AboutSection() {
               I specialize in <strong>complete product ownership</strong>. That means taking an initial concept through wireframing and UI/UX design, crafting scalable RESTful APIs, building dynamic 3D animations with Three.js/WebGL and GSAP, setting up Dockerized CI/CD deployment pipelines on AWS, and publishing live mobile applications directly to the <strong>Google Play Store</strong>.
             </motion.p>
 
-            <motion.div variants={itemVariants} className="pt-2 grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <motion.div variants={itemVariants} className="pt-2 grid grid-cols-1 sm:grid-cols-2 gap-2.5 sm:gap-3">
               {[
                 'Full Stack & Cloud Architecture',
                 'Published Google Play Store Apps',
@@ -138,7 +138,7 @@ export function AboutSection() {
                 'AWS Certified Cloud Practitioner',
                 '120+ GitHub Repositories & 200+ Contribs',
               ].map((point, idx) => (
-                <div key={idx} className="flex items-center gap-2 text-sm text-foreground font-medium">
+                <div key={idx} className="flex items-center gap-2 text-xs sm:text-sm text-foreground font-medium">
                   <CheckCircle className="h-4 w-4 text-primary flex-shrink-0" />
                   <span>{point}</span>
                 </div>
@@ -152,39 +152,39 @@ export function AboutSection() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.6 }}
             viewport={{ once: true }}
-            className="lg:col-span-5 rounded-2xl border border-primary/30 bg-card/70 p-6 sm:p-8 backdrop-blur-xl shadow-xl space-y-6"
+            className="lg:col-span-5 rounded-3xl border border-primary/30 bg-card/70 p-5 sm:p-8 backdrop-blur-xl shadow-xl space-y-5 sm:space-y-6"
           >
-            <h3 className="text-xl font-bold text-foreground flex items-center gap-2">
+            <h3 className="text-lg sm:text-xl font-bold text-foreground flex items-center gap-2">
               <Terminal className="h-5 w-5 text-primary" />
               Developer Summary
             </h3>
 
-            <div className="space-y-4 text-sm">
-              <div className="flex justify-between border-b border-border/80 pb-2.5">
-                <span className="text-muted-foreground">Location</span>
+            <div className="space-y-3.5 text-xs sm:text-sm">
+              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 border-b border-border/80 pb-2.5">
+                <span className="text-muted-foreground font-medium">Location</span>
                 <span className="font-semibold text-foreground">New Ashok Nagar, Delhi, India</span>
               </div>
-              <div className="flex justify-between border-b border-border/80 pb-2.5">
-                <span className="text-muted-foreground">Current Role</span>
+              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 border-b border-border/80 pb-2.5">
+                <span className="text-muted-foreground font-medium">Current Role</span>
                 <span className="font-semibold text-primary">Full Stack & Mobile App Dev</span>
               </div>
-              <div className="flex justify-between border-b border-border/80 pb-2.5">
-                <span className="text-muted-foreground">Company</span>
+              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 border-b border-border/80 pb-2.5">
+                <span className="text-muted-foreground font-medium">Company</span>
                 <span className="font-semibold text-foreground">RJ UrbanPower Pvt. Ltd.</span>
               </div>
-              <div className="flex justify-between border-b border-border/80 pb-2.5">
-                <span className="text-muted-foreground">Education</span>
+              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 border-b border-border/80 pb-2.5">
+                <span className="text-muted-foreground font-medium">Education</span>
                 <span className="font-semibold text-foreground">BCA (Comp Applications) 2021-24</span>
               </div>
-              <div className="flex justify-between border-b border-border/80 pb-2.5">
-                <span className="text-muted-foreground">Direct Contact</span>
+              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 border-b border-border/80 pb-2.5">
+                <span className="text-muted-foreground font-medium">Direct Contact</span>
                 <span className="font-semibold text-foreground">+91-9554584978</span>
               </div>
-              <div className="flex justify-between pb-1">
-                <span className="text-muted-foreground">Email</span>
+              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-1 pb-1">
+                <span className="text-muted-foreground font-medium">Email</span>
                 <a
                   href="mailto:shivampandeyyuyu@gmail.com"
-                  className="font-semibold text-primary hover:underline"
+                  className="font-semibold text-primary hover:underline break-all"
                 >
                   shivampandeyyuyu@gmail.com
                 </a>
@@ -195,12 +195,12 @@ export function AboutSection() {
 
         {/* 6 Engineering & Animation Pillars Grid */}
         <div className="mt-8">
-          <div className="text-center mb-10">
-            <h3 className="text-2xl sm:text-3xl font-bold text-foreground">
+          <div className="text-center mb-8 sm:mb-10">
+            <h3 className="text-xl sm:text-3xl font-bold text-foreground">
               Core Pillars of My Craft
             </h3>
-            <p className="mt-2 text-sm text-muted-foreground">
-              A breakdown of the specialized capabilities I bring to every software engineering project
+            <p className="mt-2 text-xs sm:text-sm text-muted-foreground">
+              Specialized capabilities brought to every software engineering project
             </p>
           </div>
 
@@ -209,7 +209,7 @@ export function AboutSection() {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
-            className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"
+            className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6"
           >
             {pillars.map((pillar, index) => {
               const Icon = pillar.icon;
@@ -217,31 +217,31 @@ export function AboutSection() {
                 <motion.div
                   key={index}
                   variants={itemVariants}
-                  whileHover={{ y: -6 }}
-                  className="group relative rounded-2xl border border-border/80 bg-card/60 p-7 transition-all duration-300 hover:border-primary/50 hover:shadow-xl hover:shadow-primary/10 backdrop-blur-md flex flex-col justify-between"
+                  whileHover={{ y: -4 }}
+                  className="group relative rounded-3xl border border-border/80 bg-card/60 p-5 sm:p-7 transition-all duration-300 hover:border-primary/50 hover:shadow-xl hover:shadow-primary/10 backdrop-blur-md flex flex-col justify-between"
                 >
                   <div>
-                    <div className="flex items-center justify-between mb-5">
-                      <div className="rounded-xl bg-primary/15 p-3.5 text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-all duration-300">
-                        <Icon className="h-6 w-6" />
+                    <div className="flex items-center justify-between mb-4 sm:mb-5">
+                      <div className="rounded-2xl bg-primary/15 p-3 text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-all duration-300">
+                        <Icon className="h-5 w-5 sm:h-6 sm:w-6" />
                       </div>
                       <span className="text-xs font-mono text-muted-foreground">0{index + 1}</span>
                     </div>
 
-                    <h4 className="text-lg font-bold text-foreground group-hover:text-primary transition-colors">
+                    <h4 className="text-base sm:text-lg font-bold text-foreground group-hover:text-primary transition-colors">
                       {pillar.title}
                     </h4>
-                    <p className="text-xs font-semibold text-primary/80 mt-1 mb-3">
+                    <p className="text-xs font-semibold text-primary/80 mt-1 mb-2 sm:mb-3">
                       {pillar.subtitle}
                     </p>
-                    <p className="text-sm text-muted-foreground leading-relaxed">
+                    <p className="text-xs sm:text-sm text-muted-foreground leading-relaxed">
                       {pillar.description}
                     </p>
                   </div>
 
                   <Link
                     href="/skills"
-                    className="mt-6 pt-4 border-t border-border/60 flex items-center text-xs font-semibold text-primary hover:underline group-hover:text-accent transition-colors"
+                    className="mt-5 pt-4 border-t border-border/60 flex items-center text-xs font-semibold text-primary hover:underline group-hover:text-accent transition-colors"
                   >
                     <span>Explore specialized capability</span>
                     <span className="ml-1 group-hover:translate-x-1 transition-transform">→</span>
