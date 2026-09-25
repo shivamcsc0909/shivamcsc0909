@@ -78,7 +78,7 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      <MessageCircle className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
+                      <WhatsAppIcon className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
                       <span className="truncate">WhatsApp</span>
                     </a>
                   </Button>

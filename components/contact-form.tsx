@@ -109,7 +109,7 @@ export function ContactForm({ onSuccess, compact = false }: ContactFormProps) {
               </Button>
               <Button asChild className="gap-2">
                 <a href="https://wa.me/919554584978" target="_blank" rel="noopener noreferrer">
-                  <MessageCircle className="h-4 w-4" />
+                  <WhatsAppIcon className="h-4 w-4" />
                   Instant WhatsApp Chat
                 </a>
               </Button>
